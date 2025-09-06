@@ -1,0 +1,2002 @@
+[
+    {
+        "index": 6001,
+        "answer": "C",
+        "rationale": "A monkey's footsteps are typically louder than a crow's caw due to the size and weight of the animals."
+    },
+    {
+        "index": 6002,
+        "answer": "B",
+        "rationale": "The fluttering of a butterfly's wings is typically a soft and gentle sound, while the croaking of a frog can be quite loud."
+    },
+    {
+        "index": 6003,
+        "answer": "D",
+        "rationale": "Cicada chirping is known to be one of the loudest insect sounds, while daily communication is typically a normal conversation between people, which is generally much quieter."
+    },
+    {
+        "index": 6004,
+        "answer": "B",
+        "rationale": "Turning pages in a book typically produces a louder sound compared to the other options, as the pages can be turned with a bit more force and the sound of the pages rustling can be more pronounced."
+    },
+    {
+        "index": 6005,
+        "answer": "B",
+        "rationale": "Steaming rice is a low-temperature cooking method that typically produces minimal noise, unlike stir-frying, boiling water, and chopping vegetables which can be quite loud."
+    },
+    {
+        "index": 6006,
+        "answer": "B",
+        "rationale": "Concrete floors tend to produce a louder sound when walked upon due to their hard and dense nature, which allows vibrations to travel more freely."
+    },
+    {
+        "index": 6007,
+        "answer": "D",
+        "rationale": "A waterfall typically produces a louder sound than a stream due to the greater volume of water and the way it crashes against the rocks."
+    },
+    {
+        "index": 6008,
+        "answer": "C",
+        "rationale": "The vibration of a mobile phone is typically louder than the ticking of a watch in a quiet room because the vibration is a more intense physical sensation that can be felt more easily than the sound of a ticking watch."
+    },
+    {
+        "index": 6009,
+        "answer": "D",
+        "rationale": "The buzzing sound of a flying bee is typically quieter than the mooing sound of a cow."
+    },
+    {
+        "index": 6010,
+        "answer": "A",
+        "rationale": "Wind rustling through leaves is generally louder than falling snowflakes due to the increased surface area and friction involved in the movement of leaves."
+    },
+    {
+        "index": 6011,
+        "answer": "D",
+        "rationale": "The sound of normal water flow from a faucet is typically louder than the sound of a dripping faucet."
+    },
+    {
+        "index": 6012,
+        "answer": "A",
+        "rationale": "Ocean waves crashing on the shore are generally much louder than a small river flowing due to their larger size and energy."
+    },
+    {
+        "index": 6013,
+        "answer": "A",
+        "rationale": "Boiling water in a kettle produces a louder sound due to the rapid release of steam and the increased turbulence of the water."
+    },
+    {
+        "index": 6014,
+        "answer": "B",
+        "rationale": "The sound of grinding coffee beans is typically much louder than the buzzing sound of a mosquito in flight."
+    },
+    {
+        "index": 6015,
+        "answer": "D",
+        "rationale": "When chicken is deep-fried in hot oil, the oil splatters and creates a loud noise due to the rapid expansion of the hot oil. This is typically louder than sausages being grilled in a sausage grill, which produces a more controlled and steady heat."
+    },
+    {
+        "index": 6016,
+        "answer": "C",
+        "rationale": "Frying fish typically involves high-heat cooking, which produces a louder sound than steaming fish, which involves lower-heat cooking."
+    },
+    {
+        "index": 6017,
+        "answer": "A",
+        "rationale": "A train arriving at the station is typically much louder than mopping the floor due to the intense sound of the train's engines and wheels, whereas mopping the floor produces a relatively quiet sound."
+    },
+    {
+        "index": 6018,
+        "answer": "B",
+        "rationale": "Applause is generally the loudest, followed by baby crying, then keyboard typing, and finally crab crawling, which is the quietest."
+    },
+    {
+        "index": 6019,
+        "answer": "C",
+        "rationale": "A rocket launch is typically the loudest, followed by a subway train arriving at a station, then a doorbell ringing, and the quietest is pages turning in a library."
+    },
+    {
+        "index": 6020,
+        "answer": "C",
+        "rationale": "A fireworks explosion is typically the loudest, followed by a balloon popping sound, then a cockroach crawling on a wooden floor, and finally squeezing play dough, which is the quietest."
+    },
+    {
+        "index": 6021,
+        "answer": "B",
+        "rationale": "A fire alarm sound is typically the loudest, followed by a toilet flushing sound, then a door lock turning sound, and the quietest is the earthworm movement sound."
+    },
+    {
+        "index": 6022,
+        "answer": "D",
+        "rationale": "Adults have a more developed larynx and vocal cords, which produce sound waves at a higher frequency, resulting in a higher pitch compared to a baby's cry."
+    },
+    {
+        "index": 6023,
+        "answer": "C",
+        "rationale": "Whistling typically has a higher pitch than finger snapping because the frequency of the sound produced by whistling is generally higher than that of finger snapping."
+    },
+    {
+        "index": 6024,
+        "answer": "C",
+        "rationale": "A glass cup shattering on the ground typically produces a higher pitched sound compared to a sushi roll falling onto concrete ground."
+    },
+    {
+        "index": 6025,
+        "answer": "B",
+        "rationale": "Wind chimes typically produce a higher pitched sound compared to the sound of falling leaves, which is generally lower and more muffled."
+    },
+    {
+        "index": 6026,
+        "answer": "C",
+        "rationale": "Bird songs generally have a higher pitch than elephant calls, which are typically low-frequency rumbles."
+    },
+    {
+        "index": 6027,
+        "answer": "B",
+        "rationale": "Whistling typically has a higher pitch than footsteps because it is a higher frequency sound."
+    },
+    {
+        "index": 6028,
+        "answer": "B",
+        "rationale": "A motorcycle engine sound typically has a higher pitch than a bicycle bell ring due to the higher frequency of the engine's vibrations."
+    },
+    {
+        "index": 6029,
+        "answer": "D",
+        "rationale": "Cutting an apple typically produces a higher pitched sound compared to cutting a banana, as the density and texture of the apple are different from those of the banana."
+    },
+    {
+        "index": 6030,
+        "answer": "D",
+        "rationale": "Wind chimes typically produce higher pitched sounds compared to drums, which produce lower pitched sounds."
+    },
+    {
+        "index": 6031,
+        "answer": "B",
+        "rationale": "Glass shattering sound typically has a higher pitch than a tire explosion sound due to the frequency of the sound waves produced."
+    },
+    {
+        "index": 6032,
+        "answer": "D",
+        "rationale": "Mosquitoes typically produce a higher pitched sound than flies due to their unique wing movement and frequency."
+    },
+    {
+        "index": 6033,
+        "answer": "D",
+        "rationale": "The highest note on a piano is typically higher in pitch than the sound of applause."
+    },
+    {
+        "index": 6034,
+        "answer": "B",
+        "rationale": "The sound of flowing water on the mountain is typically higher pitched than the echo in the valley due to the natural resonance of the terrain and the characteristics of the sound waves."
+    },
+    {
+        "index": 6035,
+        "answer": "B",
+        "rationale": "A telephone ring typically has a higher pitch than a microwave oven operating sound."
+    },
+    {
+        "index": 6036,
+        "answer": "C",
+        "rationale": "The sound of a glass breaking is typically higher pitched than the sound of knocking on a wooden floor."
+    },
+    {
+        "index": 6037,
+        "answer": "A",
+        "rationale": "Wind chimes typically produce a higher pitched sound compared to a cough sound, which is generally lower pitched."
+    },
+    {
+        "index": 6038,
+        "answer": "B",
+        "rationale": "When playing the piano, lifting your fingers barely off the keys allows for a more dynamic range of sound production, enabling you to produce louder sounds."
+    },
+    {
+        "index": 6039,
+        "answer": "A",
+        "rationale": "A paper plate dropping on the floor is typically louder than the other options, as it has a larger surface area and is made of a more rigid material that can produce a louder sound when dropped."
+    },
+    {
+        "index": 6040,
+        "answer": "A",
+        "rationale": "Tapping the bottom of the bowl with a spoon produces the loudest sound because it creates a clear, sharp impact on the surface, whereas the other methods involve more gradual movements that produce less noise."
+    },
+    {
+        "index": 6041,
+        "answer": "B",
+        "rationale": "Quick crumpling of aluminum foil produces the loudest sound due to the rapid release of energy and the creation of a large number of sharp edges and creases, which amplify the sound waves."
+    },
+    {
+        "index": 6042,
+        "answer": "C",
+        "rationale": "Tissue paper is typically made of thin, loose fibers that can be easily compressed and then rapidly decompress, producing a loud sound when squeezed. In contrast, a towel, plastic sheet, and sweater are less likely to produce a loud sound when squeezed due to their denser and more rigid structures."
+    },
+    {
+        "index": 6043,
+        "answer": "D",
+        "rationale": "A basketball is typically much larger and heavier than a table tennis ball, so it will produce a louder sound when dropped from the same height onto a wooden floor."
+    },
+    {
+        "index": 6044,
+        "answer": "D",
+        "rationale": "When two surfaces are rubbed together, the friction generated is proportional to the roughness of the surfaces. Sandpaper is much rougher than silk, so it will produce more friction and a louder sound."
+    },
+    {
+        "index": 6045,
+        "answer": "B",
+        "rationale": "Tearing a piece of paper produces a sharp, sudden noise, whereas placing a piece of paper on a table produces a soft, muffled sound."
+    },
+    {
+        "index": 6046,
+        "answer": "A",
+        "rationale": "When you slap the table with your entire palm, it produces a louder sound compared to the other options because it involves a greater surface area and a more forceful impact."
+    },
+    {
+        "index": 6047,
+        "answer": "D",
+        "rationale": "A stone is typically denser and heavier than a paper ball, so it will produce a louder sound when hitting a wooden board."
+    },
+    {
+        "index": 6048,
+        "answer": "B",
+        "rationale": "Crushing garlic with the flat side of a cleaver produces a louder sound than hitting the chopping board with the back of the knife, as the force and impact are more concentrated on the garlic, resulting in a more intense sound."
+    },
+    {
+        "index": 6049,
+        "answer": "C",
+        "rationale": "A walnut shell is typically harder and heavier than an eggshell, so it would produce a louder sound when dropped on a ceramic tile floor."
+    },
+    {
+        "index": 6050,
+        "answer": "C",
+        "rationale": "Plastic wrap is typically louder when crumpled quickly due to its thinner and more brittle material compared to baking paper."
+    },
+    {
+        "index": 6051,
+        "answer": "A",
+        "rationale": "When a plastic bag is crumpled quickly, the sound is usually louder than when a paper napkin is crumpled with hands because plastic bags tend to produce a more intense and sharp sound due to their rigidity and the way they collapse."
+    },
+    {
+        "index": 6052,
+        "answer": "D",
+        "rationale": "When you press a stapler, the sound is usually louder than clicking a ballpoint pen."
+    },
+    {
+        "index": 6053,
+        "answer": "C",
+        "rationale": "Metal is a harder and more rigid material than wood, so it will produce a louder sound when tapped."
+    },
+    {
+        "index": 6054,
+        "answer": "A",
+        "rationale": "When you kick an aluminum can against a wall, the sound is amplified due to the hard surface, making it louder than kicking it against grass, which is a softer surface."
+    },
+    {
+        "index": 6055,
+        "answer": "A",
+        "rationale": "Dragging a wooden box on a concrete ground would produce a louder sound compared to dragging it on a beach, as concrete is a harder surface that would amplify the sound of the box scraping against it."
+    },
+    {
+        "index": 6056,
+        "answer": "D",
+        "rationale": "When stepping into a puddle, the sound is usually louder due to the sudden impact of the water on the surface, whereas stepping into sand on a rainy day tends to be relatively quiet as the sand absorbs the sound."
+    },
+    {
+        "index": 6057,
+        "answer": "D",
+        "rationale": "Transparent tape produces a louder sound than cotton string when rubbed with the same force due to its smoother surface and higher friction coefficient."
+    },
+    {
+        "index": 6058,
+        "answer": "C",
+        "rationale": "Cutting a tomato is typically louder than cutting a carrot because tomatoes are softer and more juicy, resulting in a more forceful sound when cut."
+    },
+    {
+        "index": 6059,
+        "answer": "D",
+        "rationale": "When a bottle is fully filled with water, the sound produced by shaking it is louder than when the bottle is half-filled with water. This is because the fully filled bottle has more water molecules that collide with the walls of the bottle, producing a louder sound."
+    },
+    {
+        "index": 6060,
+        "answer": "D",
+        "rationale": "Typing on a physical keyboard is generally quieter than typing on a touchscreen, as the keys on a physical keyboard are designed to be quieter and produce less noise than the touchscreen interface."
+    },
+    {
+        "index": 6061,
+        "answer": "C",
+        "rationale": "When you slap a dry cement floor, the sound is usually louder because the dry surface has a harder time absorbing the impact, resulting in a more intense sound wave. In contrast, a puddle of water can absorb some of the impact, reducing the sound."
+    },
+    {
+        "index": 6062,
+        "answer": "C",
+        "rationale": "When playing the piano, applying increasing force to the keys is a common technique to produce a gradual increase in volume."
+    },
+    {
+        "index": 6063,
+        "answer": "C",
+        "rationale": "When cutting an apple, the sound is usually louder due to the firmer texture and denser structure of the apple, which produces a more pronounced sound when cut."
+    },
+    {
+        "index": 6064,
+        "answer": "C",
+        "rationale": "Cutting loofah is typically louder than cutting cucumbers because loofah is a harder and denser material."
+    },
+    {
+        "index": 6065,
+        "answer": "C",
+        "rationale": "Deep-frying chicken in hot oil typically produces a louder sound than grilling sausages in a sausage grill due to the rapid expansion of air bubbles and the higher temperature involved in the deep-frying process."
+    },
+    {
+        "index": 6066,
+        "answer": "A",
+        "rationale": "Pan-frying involves high heat and oil, which produces a louder sizzling sound compared to steaming, which is a more gentle process."
+    },
+    {
+        "index": 6067,
+        "answer": "D",
+        "rationale": "Stomping on a carpet typically produces a louder sound than walking on a carpet because it involves a more forceful impact."
+    },
+    {
+        "index": 6068,
+        "answer": "B",
+        "rationale": "Sharpening a pencil produces a high-pitched, sharp sound, while slicing a cucumber produces a dull, muted sound."
+    },
+    {
+        "index": 6069,
+        "answer": "B",
+        "rationale": "Running on a wooden floor produces louder footsteps compared to running on a rubber track because wood is a harder and more rigid material that allows for more impact and vibration, resulting in a louder sound."
+    },
+    {
+        "index": 6070,
+        "answer": "D",
+        "rationale": "An apple is a solid object with mass, while a flower petal is a thin, lightweight structure. When dropped from the same height, the apple will produce a louder sound due to its greater mass and velocity upon impact."
+    },
+    {
+        "index": 6071,
+        "answer": "D",
+        "rationale": "Crinkling wrapping paper is typically a louder sound than trimming flower stems, as it involves a more sudden and sharp noise."
+    },
+    {
+        "index": 6072,
+        "answer": "B",
+        "rationale": "Typing on a computer keyboard is generally louder than typing on a smartphone touchscreen due to the mechanical keys and the force required to press them."
+    },
+    {
+        "index": 6073,
+        "answer": "D",
+        "rationale": "When playing the piano, pressing the keys from left to right produces increasingly higher pitch sounds, as the keys are arranged in a chromatic order from left to right."
+    },
+    {
+        "index": 6074,
+        "answer": "D",
+        "rationale": "When playing the piano, the force applied to a key affects the volume of the sound produced, not the pitch. A greater force typically produces a louder sound, while a lesser force produces a softer sound. The pitch remains the same regardless of the force applied."
+    },
+    {
+        "index": 6075,
+        "answer": "D",
+        "rationale": "Raindrops falling on metal sheets produce a higher pitch compared to raindrops falling on soil because metal is a harder and more rigid surface, causing the raindrops to produce a higher frequency sound wave."
+    },
+    {
+        "index": 6076,
+        "answer": "B",
+        "rationale": "Raindrops falling on glass typically produce a higher pitch sound compared to raindrops falling on leaves, which tend to produce a lower pitch sound due to the greater surface area and the way the sound waves are dampened by the leaves."
+    },
+    {
+        "index": 6077,
+        "answer": "A",
+        "rationale": "Raindrops falling on a metal sheet produce a higher pitch compared to raindrops falling on a wooden board due to the difference in the materials' density and the resulting sound wave frequencies."
+    },
+    {
+        "index": 6078,
+        "answer": "C",
+        "rationale": "A wooden bucket produces a higher pitch sound when a small pebble falls into it compared to an iron bucket, as wood is a more resonant material."
+    },
+    {
+        "index": 6079,
+        "answer": "C",
+        "rationale": "When a book falls on a carpet, the sound is muffled due to the soft surface absorbing the impact. In contrast, when it falls on ceramic tiles, the sound is louder and sharper because the hard surface reflects the sound waves. Therefore, the sound of a book falling on ceramic tiles typically has a higher pitch."
+    },
+    {
+        "index": 6080,
+        "answer": "D",
+        "rationale": "Wood is a softer material than porcelain, so it will produce a higher pitched sound when struck with chopsticks."
+    },
+    {
+        "index": 6081,
+        "answer": "C",
+        "rationale": "Steel pipes typically produce a lower pitch sound when struck with a hammer compared to a wooden stick."
+    },
+    {
+        "index": 6082,
+        "answer": "C",
+        "rationale": "The teeth of a wooden comb are typically stiffer and more rigid than those of a plastic comb, which would produce a higher pitch when plucked."
+    },
+    {
+        "index": 6083,
+        "answer": "D",
+        "rationale": "The wooden teeth of a comb are typically stiffer and produce a higher pitch when plucked with a toothpick compared to the plastic teeth."
+    },
+    {
+        "index": 6084,
+        "answer": "B",
+        "rationale": "A table tennis ball has a smaller mass and a smaller radius than a basketball, resulting in a higher frequency and pitch when dropped from the same height."
+    },
+    {
+        "index": 6085,
+        "answer": "C",
+        "rationale": "Walking on a marble floor typically produces a higher pitch sound compared to walking on a sandy beach, as marble is a harder and more rigid surface that produces a sharper sound, while sand is softer and produces a duller sound."
+    },
+    {
+        "index": 6086,
+        "answer": "D",
+        "rationale": "Tapping on a fabric surface typically produces a higher pitch than tapping on a wooden armrest due to the difference in density and elasticity between the two materials."
+    },
+    {
+        "index": 6087,
+        "answer": "D",
+        "rationale": "Glass wind chimes typically produce a higher pitch than bamboo wind chimes due to the material's inherent properties."
+    },
+    {
+        "index": 6088,
+        "answer": "B",
+        "rationale": "When a plastic ball is dropped on a hard surface like a ceramic tile floor, it will produce a higher pitched sound compared to dropping it on a softer surface like grass."
+    },
+    {
+        "index": 6089,
+        "answer": "C",
+        "rationale": "When a stone drops into a bucket filled with water, it creates a higher pitched sound compared to when it drops into a bucket filled with sand, as the water creates more air displacement and thus a higher frequency sound wave."
+    },
+    {
+        "index": 6090,
+        "answer": "D",
+        "rationale": "When a stone drops into an empty plastic bucket, it creates a higher pitched sound compared to when it drops into a plastic bucket filled with sand, as the sound of the stone hitting the bottom of the bucket is more pronounced in the empty bucket."
+    },
+    {
+        "index": 6091,
+        "answer": "B",
+        "rationale": "Glass produces a higher pitched sound than wood when struck, due to its higher density and stiffness."
+    },
+    {
+        "index": 6092,
+        "answer": "D",
+        "rationale": "The sizzling sound of roasting chicken skin is typically higher pitched than the bubbling sound of cooking porridge due to the higher frequency of the sizzling sound."
+    },
+    {
+        "index": 6093,
+        "answer": "B",
+        "rationale": "A cardboard box produces a higher pitched sound when kicked compared to a metal bucket, as the box is more prone to deformation and produces a higher frequency sound wave."
+    },
+    {
+        "index": 6094,
+        "answer": "A",
+        "rationale": "A bicycle bell typically has a higher pitch than a car horn, as it is designed to be heard over a wider range of distances and environments."
+    },
+    {
+        "index": 6095,
+        "answer": "D",
+        "rationale": "When a light bulb breaks on the carpet, the sound is muffled and has a lower pitch compared to when it breaks on the floor, which produces a sharper and higher-pitched sound."
+    },
+    {
+        "index": 6096,
+        "answer": "B",
+        "rationale": "Striking an iron door typically produces a higher pitch sound compared to striking a wooden door with a key, as metal has a higher density and tends to produce higher frequency sounds when struck."
+    },
+    {
+        "index": 6097,
+        "answer": "A",
+        "rationale": "Table tennis involves hitting a small, fast-moving ball back and forth, which requires quick reflexes and generates a higher pitch sound compared to playing basketball, which involves larger movements and lower-pitched sounds."
+    },
+    {
+        "index": 6098,
+        "answer": "D",
+        "rationale": "Hand clapping typically produces a higher pitch than fingernails scratching a chalkboard."
+    },
+    {
+        "index": 6099,
+        "answer": "A",
+        "rationale": "Knocking on a wooden floor typically produces a higher pitch sound compared to the sound of a glass breaking."
+    },
+    {
+        "index": 6100,
+        "answer": "C",
+        "rationale": "The sound of writing with a pencil is typically higher pitched than the sound of coins clinking."
+    },
+    {
+        "index": 7001,
+        "answer": "C",
+        "rationale": "Towels are made of soft fibers that provide a smooth texture, making them feel the smoothest to touch compared to the other options."
+    },
+    {
+        "index": 7002,
+        "answer": "B",
+        "rationale": "Linen fabric is known for its smooth texture and is often used in clothing and home decor for its softness and durability."
+    },
+    {
+        "index": 7003,
+        "answer": "B",
+        "rationale": "The surface of the plastic box is typically rough and textured, making it feel the most different from other materials in terms of smoothness."
+    },
+    {
+        "index": 7004,
+        "answer": "C",
+        "rationale": "Asphalt is generally considered the most slippery type of ground due to its smooth and oily surface."
+    },
+    {
+        "index": 7005,
+        "answer": "D",
+        "rationale": "Silicone mats are designed to provide excellent slip resistance, making them a popular choice for high-traffic areas and areas with moisture, such as kitchens and bathrooms."
+    },
+    {
+        "index": 7006,
+        "answer": "B",
+        "rationale": "Marble is a smooth and polished surface that becomes extremely slippery when wet, making it the most slippery ground on rainy days."
+    },
+    {
+        "index": 7007,
+        "answer": "C",
+        "rationale": "Pearls are known for their smooth texture, making them the smoothest item among the options."
+    },
+    {
+        "index": 7008,
+        "answer": "D",
+        "rationale": "Chalk is generally the smoothest item among the options, as it is a soft, powdery substance that is often used for writing and drawing."
+    },
+    {
+        "index": 7009,
+        "answer": "D",
+        "rationale": "Plastic bottles have a smooth and rounded shape, making them the easiest to grip compared to other types of bottles."
+    },
+    {
+        "index": 7010,
+        "answer": "C",
+        "rationale": "Silicone handles are generally more grippy and resistant to heat than other materials, making them ideal for pot handles."
+    },
+    {
+        "index": 7011,
+        "answer": "B",
+        "rationale": "Photo paper is designed to produce high-quality images and has a smooth surface to prevent ink or toner from spreading or feathering."
+    },
+    {
+        "index": 7012,
+        "answer": "C",
+        "rationale": "Xuan paper is known for its smooth surface, making it ideal for calligraphy and brush painting."
+    },
+    {
+        "index": 7013,
+        "answer": "A",
+        "rationale": "Billiard balls are typically made of a smooth, hard material such as phenolic resin or polyester, which provides a consistent and even surface."
+    },
+    {
+        "index": 7014,
+        "answer": "D",
+        "rationale": "Satin is known for its smooth texture and is often used in high-end clothing and upholstery."
+    },
+    {
+        "index": 7015,
+        "answer": "D",
+        "rationale": "Oranges have a smooth, easy-to-peel skin, making them the fruit with the smoothest skin."
+    },
+    {
+        "index": 7016,
+        "answer": "B",
+        "rationale": "Potatoes have a relatively smooth skin compared to other vegetables listed."
+    },
+    {
+        "index": 7017,
+        "answer": "C",
+        "rationale": "Pineapples have a tough, waxy skin that is difficult to bite into, making it the fruit with the roughest skin."
+    },
+    {
+        "index": 7018,
+        "answer": "C",
+        "rationale": "Watermelon has a smooth, glossy skin, making it the fruit with the smoothest skin among the options."
+    },
+    {
+        "index": 7019,
+        "answer": "A",
+        "rationale": "Luffa has a smooth, edible skin that is often used in culinary dishes."
+    },
+    {
+        "index": 7020,
+        "answer": "A",
+        "rationale": "Winter melon has a thick, rough skin that is often used in traditional medicine and cooking."
+    },
+    {
+        "index": 7021,
+        "answer": "C",
+        "rationale": "Rubber is known for its high elasticity, making it the most elastic material among the options."
+    },
+    {
+        "index": 7022,
+        "answer": "D",
+        "rationale": "Silicone handles are known for their high elasticity and flexibility, making them a popular choice for knives and other tools."
+    },
+    {
+        "index": 7023,
+        "answer": "A",
+        "rationale": "Rubber coasters are known for their elasticity, making them a good choice for protecting surfaces from water marks and spills."
+    },
+    {
+        "index": 7024,
+        "answer": "A",
+        "rationale": "Knitted gloves are typically made from elastic materials and are designed to provide a snug fit, making them the most elastic type of glove."
+    },
+    {
+        "index": 7025,
+        "answer": "B",
+        "rationale": "Rubber rope is known for its high elasticity due to its ability to stretch and return to its original shape."
+    },
+    {
+        "index": 7026,
+        "answer": "C",
+        "rationale": "Table tennis balls are made of rubber and are designed to bounce and return to their original shape after being hit, making them highly elastic."
+    },
+    {
+        "index": 7027,
+        "answer": "D",
+        "rationale": "A rubber ball is made of a material that is designed to be elastic, allowing it to bounce and stretch without breaking."
+    },
+    {
+        "index": 7028,
+        "answer": "C",
+        "rationale": "Cream puffs have a high elasticity due to the air incorporated into the dough, making them less dense and more prone to stretching."
+    },
+    {
+        "index": 7029,
+        "answer": "D",
+        "rationale": "Potato chips are typically made from a mixture of potato starch and other ingredients, which makes them more prone to stretching and deforming under stress, resulting in higher elasticity."
+    },
+    {
+        "index": 7030,
+        "answer": "A",
+        "rationale": "Nori is a type of seaweed that is known for its high elasticity, making it a popular choice for sushi rolls."
+    },
+    {
+        "index": 7031,
+        "answer": "D",
+        "rationale": "Chinese yam is a type of root vegetable that is known for its high water content and ability to stretch, making it highly elastic."
+    },
+    {
+        "index": 7032,
+        "answer": "C",
+        "rationale": "Dumplings are often considered a comfort food and have a high demand elasticity due to their versatility and widespread popularity."
+    },
+    {
+        "index": 7033,
+        "answer": "C",
+        "rationale": "Squid has a high water content and a loose, gelatinous texture, making it more elastic than other seafood options."
+    },
+    {
+        "index": 7034,
+        "answer": "C",
+        "rationale": "Crab meat is known for its high moisture content and delicate texture, making it more elastic than other seafood options."
+    },
+    {
+        "index": 7035,
+        "answer": "B",
+        "rationale": "Boiled black fish fillet is typically the least elastic among the given options because it has been cooked and has lost its natural moisture and texture, making it less elastic compared to the other options."
+    },
+    {
+        "index": 7036,
+        "answer": "C",
+        "rationale": "Celtuce is a type of lettuce that is known for its high water content and crunchy texture, making it more elastic than other vegetables."
+    },
+    {
+        "index": 7037,
+        "answer": "C",
+        "rationale": "Bananas are known for their high water content and elastic texture, making them a good fit for this description."
+    },
+    {
+        "index": 7038,
+        "answer": "C",
+        "rationale": "Waxberry, also known as Chinese bayberry, is a type of fruit that is known for its high water content and elastic flesh."
+    },
+    {
+        "index": 7039,
+        "answer": "C",
+        "rationale": "Pears are known for their high water content and elastic flesh, making them a good choice for this question."
+    },
+    {
+        "index": 7040,
+        "answer": "B",
+        "rationale": "Rock candy is known for its crystalline structure, which gives it a high degree of elasticity."
+    },
+    {
+        "index": 7041,
+        "answer": "D",
+        "rationale": "Compressed biscuits are typically harder than the other options, making them the hardest to bite."
+    },
+    {
+        "index": 7042,
+        "answer": "D",
+        "rationale": "A lollipop is typically hard and difficult to bite, whereas pudding, soda crackers, and wafer biscuits are relatively soft and easy to bite."
+    },
+    {
+        "index": 7043,
+        "answer": "C",
+        "rationale": "White radish is typically harder than the other options when raw."
+    },
+    {
+        "index": 7044,
+        "answer": "C",
+        "rationale": "Tofu is often considered the most tender when cooked due to its high water content and neutral flavor, which allows it to absorb flavors and textures without becoming tough or rubbery."
+    },
+    {
+        "index": 7045,
+        "answer": "C",
+        "rationale": "Potato chips are typically the crunchiest among the options listed."
+    },
+    {
+        "index": 7046,
+        "answer": "B",
+        "rationale": "Bananas are typically the softest among the options provided when they are ripe."
+    },
+    {
+        "index": 7047,
+        "answer": "C",
+        "rationale": "Water chestnuts are a type of starchy root vegetable, but they are often referred to as a fruit. They are typically hard when ripe."
+    },
+    {
+        "index": 7048,
+        "answer": "C",
+        "rationale": "Plums have a harder skin than the other options, making them the fruit with the hardest peel."
+    },
+    {
+        "index": 7049,
+        "answer": "B",
+        "rationale": "Coconuts have a hard outer shell that is difficult to cut through, making them one of the hardest fruits to cut."
+    },
+    {
+        "index": 7050,
+        "answer": "D",
+        "rationale": "Among the options provided, tomatoes are generally considered the softest due to their high water content and relatively low firmness compared to the other options."
+    },
+    {
+        "index": 7051,
+        "answer": "B",
+        "rationale": "Sponge cake is known for its soft and airy texture, making it the correct answer."
+    },
+    {
+        "index": 7052,
+        "answer": "B",
+        "rationale": "Chiffon cakes are known for their light and airy texture, making them the softest among the options."
+    },
+    {
+        "index": 7053,
+        "answer": "B",
+        "rationale": "Marshmallows are known for their soft and fluffy texture, making them the softest among the options."
+    },
+    {
+        "index": 7054,
+        "answer": "C",
+        "rationale": "Walnut cookies are known for their crunchy texture due to the presence of chopped nuts."
+    },
+    {
+        "index": 7055,
+        "answer": "A",
+        "rationale": "Peanuts have a relatively soft shell compared to other nuts, making them easier to crack open."
+    },
+    {
+        "index": 7056,
+        "answer": "A",
+        "rationale": "Plasticine is a type of modeling clay that is known for its ability to be easily molded and shaped, making it the most easily deformable item among the options."
+    },
+    {
+        "index": 7057,
+        "answer": "B",
+        "rationale": "Among the given options, a glass vase is typically the hardest due to its rigid and non-flexible nature compared to the other items listed."
+    },
+    {
+        "index": 7058,
+        "answer": "A",
+        "rationale": "Pencils are made of graphite and clay, which can break easily if applied too much pressure or dropped."
+    },
+    {
+        "index": 7059,
+        "answer": "C",
+        "rationale": "Plastic rulers are more prone to breaking than other types of rulers due to their brittle nature."
+    },
+    {
+        "index": 7060,
+        "answer": "B",
+        "rationale": "Xuan paper is a type of paper that is known for its high quality and durability, making it the hardest type of paper among the options."
+    },
+    {
+        "index": 7061,
+        "answer": "D",
+        "rationale": "Down jackets are typically filled with insulating material and have a thick, heavy fabric, making them the heaviest type of clothing among the options."
+    },
+    {
+        "index": 7062,
+        "answer": "B",
+        "rationale": "Basketballs are typically the heaviest type of ball among the options listed."
+    },
+    {
+        "index": 7063,
+        "answer": "C",
+        "rationale": "A yoga mat is typically the lightest among the given options, as it is a flat, flexible piece of equipment designed for floor exercises."
+    },
+    {
+        "index": 7064,
+        "answer": "B",
+        "rationale": "A stapler typically contains metal staples and has a heavier metal body, making it the heaviest among the options."
+    },
+    {
+        "index": 7065,
+        "answer": "D",
+        "rationale": "Among the options provided, the bamboo flute is typically the lightest musical instrument."
+    },
+    {
+        "index": 7066,
+        "answer": "C",
+        "rationale": "Soap is typically the lightest among the options provided, as it is a solid or semi-solid substance that is designed to be used in small quantities."
+    },
+    {
+        "index": 7067,
+        "answer": "D",
+        "rationale": "A broom is typically the heaviest among the options listed, as it has a long handle and a head made of stiff bristles."
+    },
+    {
+        "index": 7068,
+        "answer": "C",
+        "rationale": "An electric kettle is typically the lightest among the given options as it is designed to be portable and easy to handle."
+    },
+    {
+        "index": 7069,
+        "answer": "D",
+        "rationale": "Cups are typically made of thicker and heavier materials than forks, chopsticks, and spoons, making them the heaviest type of tableware."
+    },
+    {
+        "index": 7070,
+        "answer": "B",
+        "rationale": "Pomelos are a type of citrus fruit that can grow quite large, often weighing more than other fruits like apples, grapes, and pears."
+    },
+    {
+        "index": 7071,
+        "answer": "A",
+        "rationale": "Winter melons are known to be one of the heaviest vegetables, often weighing several kilograms per piece."
+    },
+    {
+        "index": 7072,
+        "answer": "B",
+        "rationale": "Pumpkins are typically larger and heavier than the other options, making them the vegetable that usually weighs the most per piece."
+    },
+    {
+        "index": 7073,
+        "answer": "D",
+        "rationale": "Pistachios are typically the lightest in weight among the given options, with a single pistachio weighing around 0.25 grams."
+    },
+    {
+        "index": 7074,
+        "answer": "A",
+        "rationale": "Hamsters are generally the lightest among the options provided."
+    },
+    {
+        "index": 7075,
+        "answer": "C",
+        "rationale": "Butterflies are typically the lightest among the given options due to their delicate structure and mostly transparent wings."
+    },
+    {
+        "index": 7076,
+        "answer": "C",
+        "rationale": "Chickens have relatively thin legs compared to other animals, making them the most likely candidate for having the thinnest legs."
+    },
+    {
+        "index": 7077,
+        "answer": "C",
+        "rationale": "The calf is typically the thickest part of the human body, as it contains a large amount of muscle mass."
+    },
+    {
+        "index": 7078,
+        "answer": "C",
+        "rationale": "The elbow is typically the thickest part of the human body due to the presence of the olecranon, a bony prominence that forms the elbow joint."
+    },
+    {
+        "index": 7079,
+        "answer": "D",
+        "rationale": "A lamppost is typically a large, sturdy object that is designed to be visible from a distance, making it the thickest option."
+    },
+    {
+        "index": 7080,
+        "answer": "C",
+        "rationale": "A rolling pin is typically thicker than a pencil, drinking straw, or chopsticks."
+    },
+    {
+        "index": 7081,
+        "answer": "C",
+        "rationale": "Infusion tubes are typically used in medical settings and are designed to be thin and flexible, making them the thinnest type of pipe among the options."
+    },
+    {
+        "index": 7082,
+        "answer": "D",
+        "rationale": "Sewing thread is typically the thinnest type of rope due to its specific use in sewing and textile applications."
+    },
+    {
+        "index": 7083,
+        "answer": "B",
+        "rationale": "Dental floss is typically the thinnest type of rope due to its intended use for cleaning between teeth."
+    },
+    {
+        "index": 7084,
+        "answer": "C",
+        "rationale": "Green bell peppers are typically thicker than cucumbers, carrots, and winter melons."
+    },
+    {
+        "index": 7085,
+        "answer": "D",
+        "rationale": "Among the given options, white radish is typically the thinnest vegetable."
+    },
+    {
+        "index": 7086,
+        "answer": "D",
+        "rationale": "Bamboo is a type of grass that is known for its slender and flexible stems, making it the thinnest among the options."
+    },
+    {
+        "index": 7087,
+        "answer": "A",
+        "rationale": "Honey has a higher viscosity than sugar water, clear water, and saline solution due to its complex molecular structure and higher molecular weight."
+    },
+    {
+        "index": 7088,
+        "answer": "B",
+        "rationale": "Sesame paste has a thick, smooth consistency due to its high oil content, making it the most viscous among the options."
+    },
+    {
+        "index": 7089,
+        "answer": "B",
+        "rationale": "Sweet soup balls are known for their sticky texture, making them a popular choice in Chinese cuisine."
+    },
+    {
+        "index": 7090,
+        "answer": "A",
+        "rationale": "White fungus soup is typically made with a type of fungus that gives it a thick and viscous texture."
+    },
+    {
+        "index": 7091,
+        "answer": "C",
+        "rationale": "Bamboo chopsticks tend to feel cooler at room temperature due to their natural, breathable material and lower thermal conductivity compared to other materials."
+    },
+    {
+        "index": 7092,
+        "answer": "A",
+        "rationale": "Ceramic tiles are typically made of ceramic material and have a smooth, non-porous surface that can conduct heat away from the skin, making them feel colder than other surfaces."
+    },
+    {
+        "index": 7093,
+        "answer": "B",
+        "rationale": "Ceramic tiles are typically made of ceramic material and are often used in bathrooms and kitchens, which are areas that are frequently cooled. This makes them feel colder to the touch compared to other surfaces."
+    },
+    {
+        "index": 7094,
+        "answer": "C",
+        "rationale": "Plush slippers are typically made of soft, insulating materials that retain warmth, making them feel the warmest when put on in the morning."
+    },
+    {
+        "index": 7095,
+        "answer": "D",
+        "rationale": "A paper cup is typically made of a thin, insulating material that prevents the cold temperature of the water from being transferred to the cup, making it feel less cold when touched."
+    },
+    {
+        "index": 7096,
+        "answer": "C",
+        "rationale": "Wrought iron chairs tend to absorb and retain heat from the sun, making them feel hotter than other materials when first sat on."
+    },
+    {
+        "index": 7097,
+        "answer": "C",
+        "rationale": "Bamboo is a natural, breathable material that tends to feel cooler to the touch than other materials, making it a good choice for tableware handles."
+    },
+    {
+        "index": 7098,
+        "answer": "D",
+        "rationale": "Brass is a metal, and metals tend to conduct heat and cold more efficiently than other materials, making brass doorknobs feel colder in winter."
+    },
+    {
+        "index": 7099,
+        "answer": "C",
+        "rationale": "Linen is a natural, breathable fabric that allows for airflow and moisture wicking, making it feel cooler in warm weather."
+    },
+    {
+        "index": 7100,
+        "answer": "D",
+        "rationale": "Fabric is a breathable material that allows for airflow and can help keep you cooler in the summer."
+    },
+    {
+        "index": 8001,
+        "answer": "D",
+        "rationale": "Lemons are known for their sour taste, and hawthorn is also a sour fruit."
+    },
+    {
+        "index": 8002,
+        "answer": "B",
+        "rationale": "Chili peppers and soy sauce are known for their sour taste, which is often associated with acidic or fermented foods."
+    },
+    {
+        "index": 8003,
+        "answer": "C",
+        "rationale": "Pickled foods are typically sour due to the fermentation process, and pickled cabbage is a common example of a sour food."
+    },
+    {
+        "index": 8004,
+        "answer": "D",
+        "rationale": "Sour plum drink and passion fruit are both known for their sour taste."
+    },
+    {
+        "index": 8005,
+        "answer": "C",
+        "rationale": "Pomelo and sea buckthorn are both known for their sour taste."
+    },
+    {
+        "index": 8006,
+        "answer": "B",
+        "rationale": "Honey and raisins are both sweet foods, making option B the correct answer."
+    },
+    {
+        "index": 8007,
+        "answer": "D",
+        "rationale": "Red dates and watermelon are typically sweet foods."
+    },
+    {
+        "index": 8008,
+        "answer": "D",
+        "rationale": "Sweet orange is a type of fruit known for its sweetness, and green bell pepper is not typically sweet."
+    },
+    {
+        "index": 8009,
+        "answer": "B",
+        "rationale": "Fruits are typically sweet, and bananas and strawberries are both types of fruit."
+    },
+    {
+        "index": 8010,
+        "answer": "D",
+        "rationale": "Sweet foods are typically desserts or sweet treats, such as cake and ice cream."
+    },
+    {
+        "index": 8011,
+        "answer": "C",
+        "rationale": "Bitter taste is often associated with certain plant compounds, and coffee and bitter gourd are known to have bitter flavors."
+    },
+    {
+        "index": 8012,
+        "answer": "B",
+        "rationale": "Lotus seeds and dandelion tea are known to have bitter flavors, which is a characteristic often associated with this group of foods."
+    },
+    {
+        "index": 8013,
+        "answer": "B",
+        "rationale": "Bitter foods are often associated with dark chocolate and herbal jelly, which are known for their bitter flavors."
+    },
+    {
+        "index": 8014,
+        "answer": "B",
+        "rationale": "Green tea is often described as bitter, and almonds can have a bitter taste depending on the variety."
+    },
+    {
+        "index": 8015,
+        "answer": "B",
+        "rationale": "Bitter melon is known for its bitter taste, and chili sauce can also have a bitter flavor depending on the type of peppers used."
+    },
+    {
+        "index": 8016,
+        "answer": "D",
+        "rationale": "Salty foods are often associated with preserved or cured products, such as cured meat and soy sauce."
+    },
+    {
+        "index": 8017,
+        "answer": "B",
+        "rationale": "Smoked fish and instant noodles are commonly known to be salty due to their high sodium content."
+    },
+    {
+        "index": 8018,
+        "answer": "C",
+        "rationale": "Pickled and salted foods are typically high in salt content."
+    },
+    {
+        "index": 8019,
+        "answer": "C",
+        "rationale": "Braised pork trotters are typically cooked in a savory sauce, which makes them salty."
+    },
+    {
+        "index": 8020,
+        "answer": "B",
+        "rationale": "Pickled foods are typically salty, and pickled mustard tuber is a type of pickled food."
+    },
+    {
+        "index": 8021,
+        "answer": "B",
+        "rationale": "Spicy foods are typically associated with a burning sensation, which is often caused by the presence of capsaicin or other spicy compounds. Chicken and crayfish are both known to be spicy, making option B the most likely correct answer."
+    },
+    {
+        "index": 8022,
+        "answer": "B",
+        "rationale": "Onions and mustard are commonly associated with spicy flavors due to the presence of compounds like capsaicin in onions and allyl isothiocyanate in mustard."
+    },
+    {
+        "index": 8023,
+        "answer": "D",
+        "rationale": "Ginger and Sichuan peppercorn are commonly used in spicy dishes, particularly in Asian cuisine."
+    },
+    {
+        "index": 8024,
+        "answer": "B",
+        "rationale": "Wasabi is a well-known spicy condiment, and rose tea is not typically spicy, but it's not a strong enough reason to rule out option B. Green bell peppers and black pepper are not typically spicy, and braised eggs and tea eggs are not spicy. Pine nuts and coffee are not spicy."
+    },
+    {
+        "index": 8025,
+        "answer": "D",
+        "rationale": "Bird's eye chili is known for its spicy flavor, making it a likely candidate for spicy foods."
+    },
+    {
+        "index": 8026,
+        "answer": "C",
+        "rationale": "Apples are known for their sour taste, especially when they are not yet ripe."
+    },
+    {
+        "index": 8027,
+        "answer": "C",
+        "rationale": "Blueberries are known for their sour taste, making them a likely candidate for a sour food."
+    },
+    {
+        "index": 8028,
+        "answer": "A",
+        "rationale": "Grapes are typically known for their sour taste, especially when they are unripe or green."
+    },
+    {
+        "index": 8029,
+        "answer": "B",
+        "rationale": "Apple vinegar is a common ingredient used to add a sour taste to various dishes."
+    },
+    {
+        "index": 8030,
+        "answer": "C",
+        "rationale": "Orange juice is a citrus fruit and is known for its sour taste."
+    },
+    {
+        "index": 8031,
+        "answer": "B",
+        "rationale": "Raisins are known for their sweet taste due to their high sugar content."
+    },
+    {
+        "index": 8032,
+        "answer": "D",
+        "rationale": "Jelly is a sweet food, typically made from fruit puree or sugar syrup."
+    },
+    {
+        "index": 8033,
+        "answer": "C",
+        "rationale": "Doughnuts are typically sweet baked goods, making them the most likely to have a sweet taste."
+    },
+    {
+        "index": 8034,
+        "answer": "B",
+        "rationale": "Persimmons are known for their sweet taste, especially when they are ripe."
+    },
+    {
+        "index": 8035,
+        "answer": "B",
+        "rationale": "Longan is a type of fruit that is known for its sweet taste."
+    },
+    {
+        "index": 8036,
+        "answer": "D",
+        "rationale": "Grilled fish can have a bitter taste depending on the type of fish and the cooking method used."
+    },
+    {
+        "index": 8037,
+        "answer": "D",
+        "rationale": "Pickled cabbage is often associated with a bitter taste due to the fermentation process and the presence of certain compounds."
+    },
+    {
+        "index": 8038,
+        "answer": "C",
+        "rationale": "Longjing tea is a type of green tea, which is known for its bitter taste."
+    },
+    {
+        "index": 8039,
+        "answer": "C",
+        "rationale": "Mustard is commonly known for its bitter taste, which is a characteristic often associated with this condiment."
+    },
+    {
+        "index": 8040,
+        "answer": "D",
+        "rationale": "Tea leaves are known for their bitter taste, which is a characteristic often associated with this type of food."
+    },
+    {
+        "index": 8041,
+        "answer": "D",
+        "rationale": "Smoked meat is typically cured with salt, which gives it a salty taste."
+    },
+    {
+        "index": 8042,
+        "answer": "B",
+        "rationale": "Cola is a carbonated soft drink that is commonly known for its salty taste."
+    },
+    {
+        "index": 8043,
+        "answer": "C",
+        "rationale": "Soy sauce is a condiment commonly used to add saltiness to food."
+    },
+    {
+        "index": 8044,
+        "answer": "B",
+        "rationale": "Chinese sausage is a type of cured meat that is typically high in salt, giving it a salty taste."
+    },
+    {
+        "index": 8045,
+        "answer": "A",
+        "rationale": "Beef jerky is a dried and cured meat product that is often seasoned with salt, which gives it a salty taste."
+    },
+    {
+        "index": 8046,
+        "answer": "A",
+        "rationale": "Spicy hot pot is a dish that is typically associated with spicy flavors, making it the most likely option to have a spicy taste."
+    },
+    {
+        "index": 8047,
+        "answer": "D",
+        "rationale": "Spicy soup is typically seasoned with spices or hot peppers, which give it a spicy taste."
+    },
+    {
+        "index": 8048,
+        "answer": "B",
+        "rationale": "Mapo tofu is a spicy Sichuan dish made with tofu, chili peppers, and Sichuan peppercorns, giving it a distinctive spicy taste."
+    },
+    {
+        "index": 8049,
+        "answer": "A",
+        "rationale": "Spicy chicken is a common dish that is known for its spicy taste, often due to the use of chili peppers or other spicy seasonings."
+    },
+    {
+        "index": 8050,
+        "answer": "A",
+        "rationale": "Sour and spicy rice noodles are a type of dish that is commonly associated with spicy taste."
+    },
+    {
+        "index": 8051,
+        "answer": "B",
+        "rationale": "Roasted chicken is typically cooked and seasoned, which reduces its natural acidity and makes it less likely to have a sour taste compared to other options."
+    },
+    {
+        "index": 8052,
+        "answer": "A",
+        "rationale": "Cream is a dairy product that is typically sweet and not sour, unlike the other options which are known for their sour taste."
+    },
+    {
+        "index": 8053,
+        "answer": "D",
+        "rationale": "Stir-fried noodles are typically savory rather than sour, making them the least likely to have a sour taste among the options."
+    },
+    {
+        "index": 8054,
+        "answer": "B",
+        "rationale": "Steak is typically cooked and does not have a sour taste, unlike the other options which are known to be sour."
+    },
+    {
+        "index": 8055,
+        "answer": "A",
+        "rationale": "Fried chicken is typically cooked in a way that removes its natural acidity, making it less likely to have a sour taste compared to the other options."
+    },
+    {
+        "index": 8056,
+        "answer": "D",
+        "rationale": "Cured meat is typically savory rather than sweet, as it is preserved through a process that involves salt or sugar, but not added sugars."
+    },
+    {
+        "index": 8057,
+        "answer": "A",
+        "rationale": "Hot and sour soup is a savory dish, not typically sweet."
+    },
+    {
+        "index": 8058,
+        "answer": "B",
+        "rationale": "Salted fish is typically savory rather than sweet, making it the least likely option to have a sweet taste."
+    },
+    {
+        "index": 8059,
+        "answer": "B",
+        "rationale": "Salads are typically savory rather than sweet, making them the least likely to have a sweet taste."
+    },
+    {
+        "index": 8060,
+        "answer": "D",
+        "rationale": "Black pepper steak is typically savory rather than sweet, as black pepper is a common seasoning used to add flavor to savory dishes."
+    },
+    {
+        "index": 8061,
+        "answer": "C",
+        "rationale": "While coffee and green tea can have bitter notes, corn is generally sweet and not typically bitter. Bitter gourd is known for its bitter taste."
+    },
+    {
+        "index": 8062,
+        "answer": "A",
+        "rationale": "Chocolate is generally known for its sweet taste, making it the least likely to have a bitter taste among the options."
+    },
+    {
+        "index": 8063,
+        "answer": "A",
+        "rationale": "Strawberries are typically sweet and not salty, making them the least likely option to have a salty taste."
+    },
+    {
+        "index": 8064,
+        "answer": "A",
+        "rationale": "Honey is a sweetener made from the nectar of flowers and does not typically have a salty taste."
+    },
+    {
+        "index": 8065,
+        "answer": "B",
+        "rationale": "Raisins are dried grapes and are typically sweet, not salty."
+    },
+    {
+        "index": 8066,
+        "answer": "A",
+        "rationale": "Durian is a tropical fruit known for its strong odor and flavor, but it is not typically associated with a salty taste."
+    },
+    {
+        "index": 8067,
+        "answer": "D",
+        "rationale": "Apples are generally sweet and not salty, making them the least likely option to have a salty taste."
+    },
+    {
+        "index": 8068,
+        "answer": "C",
+        "rationale": "Winter jujube is a type of fruit that is typically sweet and not spicy."
+    },
+    {
+        "index": 8069,
+        "answer": "C",
+        "rationale": "Oranges are typically sweet and not spicy, making them the least likely option to have a spicy taste."
+    },
+    {
+        "index": 8070,
+        "answer": "D",
+        "rationale": "Lemons are known for their high acidity and are often used in cooking and cleaning for their sour taste."
+    },
+    {
+        "index": 8071,
+        "answer": "B",
+        "rationale": "Orange juice is generally the sourest among the given options due to its high acidity level."
+    },
+    {
+        "index": 8072,
+        "answer": "A",
+        "rationale": "Apple vinegar is generally the sourest among the options, as it is a fermented product with a high acidity level."
+    },
+    {
+        "index": 8073,
+        "answer": "B",
+        "rationale": "Lychee is generally considered one of the sweetest fruits among the options provided."
+    },
+    {
+        "index": 8074,
+        "answer": "B",
+        "rationale": "Pomegranate is known for its sweet and juicy arils, making it generally the sweetest among the options."
+    },
+    {
+        "index": 8075,
+        "answer": "A",
+        "rationale": "Honey is generally considered the sweetest of the options listed, as it is a concentrated sugar solution produced by bees."
+    },
+    {
+        "index": 8076,
+        "answer": "D",
+        "rationale": "Bitter gourd is known for its strong, bitter taste, making it the most bitter option among the choices."
+    },
+    {
+        "index": 8077,
+        "answer": "C",
+        "rationale": "Green tea is generally considered the most bitter among the options provided."
+    },
+    {
+        "index": 8078,
+        "answer": "D",
+        "rationale": "Lotus seeds are known to be one of the bitterest foods in the world, often used in traditional medicine and cooking."
+    },
+    {
+        "index": 8079,
+        "answer": "A",
+        "rationale": "Cured meats, such as bacon and ham, are typically high in salt due to the curing process."
+    },
+    {
+        "index": 8080,
+        "answer": "B",
+        "rationale": "Pickled gherkin is typically preserved in a brine solution, making it one of the saltiest foods among the options."
+    },
+    {
+        "index": 8081,
+        "answer": "B",
+        "rationale": "Braised egg is typically cooked in a salty liquid, making it generally the saltiest option."
+    },
+    {
+        "index": 8082,
+        "answer": "D",
+        "rationale": "Mustard is generally considered the spiciest among the given options."
+    },
+    {
+        "index": 8083,
+        "answer": "D",
+        "rationale": "Butter hotpot is a type of spicy Sichuan hotpot dish, making it generally the spiciest option."
+    },
+    {
+        "index": 8084,
+        "answer": "D",
+        "rationale": "Green bell peppers are often used in spicy dishes and have a higher Scoville heat unit rating than the other options."
+    },
+    {
+        "index": 8085,
+        "answer": "D",
+        "rationale": "Sauerkraut and lemon are sour, honey peach is sweet, and cured meat is salty."
+    },
+    {
+        "index": 8086,
+        "answer": "C",
+        "rationale": "Honey and marshmallow are sweet, watermelon is sweet and refreshing, and mustard is spicy."
+    },
+    {
+        "index": 8087,
+        "answer": "C",
+        "rationale": "Spicy chicken wings are spicy, blueberries are sweet, oranges are sweet, and green bell peppers are slightly sweet. Therefore, the correct classification is Group 1 (spicy chicken wings, green bell peppers) and Group 2 (blueberries, oranges)."
+    },
+    {
+        "index": 8088,
+        "answer": "C",
+        "rationale": "Cherries and sour plums are sweet and sour, while beef jerky and Chinese sausage are savory."
+    },
+    {
+        "index": 8089,
+        "answer": "B",
+        "rationale": "Yogurt and lychee are typically sweet and creamy, while red dates and strawberries are also sweet but have a softer texture, making them a separate group."
+    },
+    {
+        "index": 8090,
+        "answer": "A",
+        "rationale": "Sugarcane and banana are sweet, while salted fish is savory. Soy sauce is also savory, but it's a condiment, so it's best grouped with the savory food, salted fish."
+    },
+    {
+        "index": 8091,
+        "answer": "B",
+        "rationale": "Sentences 2 and 4 are semantically reasonable, as they describe a typical reaction to spicy or sour food. Sentence 3 is also reasonable, as it describes a pleasant experience with a drink. Sentence 1 is not reasonable, as it describes a contradictory experience with the chocolate."
+    },
+    {
+        "index": 8092,
+        "answer": "B",
+        "rationale": "Sentences 1, 3, and 4 are semantically reasonable as they describe common culinary practices or experiences. Sentence 2 is not reasonable as bitterness is not typically associated with salt, making it an outlier."
+    },
+    {
+        "index": 8093,
+        "answer": "B",
+        "rationale": "Sentences 2 and 4 are semantically reasonable as they describe a balance of flavors, which is a common and expected characteristic of food. Sentences 1 and 3 are not semantically reasonable as they describe a single flavor dominating the experience, which is not typical of a balanced taste."
+    },
+    {
+        "index": 8094,
+        "answer": "B",
+        "rationale": "Sentences 1, 2, and 3 are semantically reasonable as they describe the taste and flavor of food in a coherent and relatable way. Sentence 4 is also reasonable as it describes the texture of the fried chicken. However, the question asks for the number of semantically reasonable sentences, and the correct answer is 4."
+    },
+    {
+        "index": 8095,
+        "answer": "B",
+        "rationale": "Sentences 1 and 4 are semantically reasonable as they describe a harmonious combination of flavors, while sentences 2 and 3 are not as they describe a combination of contrasting flavors."
+    },
+    {
+        "index": 8096,
+        "answer": "D",
+        "rationale": "Sentences 1, 3, and 4 describe flavors that are commonly associated with certain types of food or drinks, making them semantically reasonable. Sentence 2, however, describes an apple juice with a strong bitter taste, which is not typical for apple juice, making it semantically unreasonable."
+    },
+    {
+        "index": 8097,
+        "answer": "B",
+        "rationale": "Sentences 1, 2, and 4 describe a balance of flavors, which is a common and reasonable description in culinary contexts. Sentence 3, however, describes a bitter taste as refreshing, which is not a typical or reasonable description of a flavor experience."
+    },
+    {
+        "index": 8098,
+        "answer": "B",
+        "rationale": "Sentences 2 and 3 describe a harmonious combination of flavors, which is a common and semantically reasonable concept in culinary contexts. Sentence 1 describes a positive experience with an orange, which is also reasonable. Sentence 4, however, implies that the kimchi is overly sour, which might be a matter of personal taste, but it's not necessarily unreasonable. Therefore, the most semantically reasonable answer is B, which includes sentences 2 and 3."
+    },
+    {
+        "index": 8099,
+        "answer": "B",
+        "rationale": "Sentences 1 and 3 are semantically reasonable as they describe the taste and flavor of food in a coherent and logical manner. Sentence 2 is also reasonable as it describes the taste of food in a way that is consistent with common culinary experiences. Sentence 4 is not reasonable as the combination of bitterness and garlic aroma is unlikely to stimulate one's appetite."
+    },
+    {
+        "index": 8100,
+        "answer": "C",
+        "rationale": "Sentences 1 and 4 are semantically reasonable as they describe a combination of flavors and a rich taste experience, respectively. Sentence 2 is also reasonable as it describes the spiciness of the wasabi octopus. However, sentence 3 is not reasonable as it describes a strong sour taste, which is not typical of chicken skewers."
+    },
+    {
+        "index": 9001,
+        "answer": "B",
+        "rationale": "Onions contain sulfur compounds that release a strong smell when cut, making them the vegetable with the strongest smell when cut."
+    },
+    {
+        "index": 9002,
+        "answer": "C",
+        "rationale": "Scallions have a fresher and more fragrant aroma compared to the other options."
+    },
+    {
+        "index": 9003,
+        "answer": "B",
+        "rationale": "Tomatoes are often considered a vegetable in culinary and everyday contexts, and they have a subtle fruity aroma."
+    },
+    {
+        "index": 9004,
+        "answer": "D",
+        "rationale": "Ginger is known for its strong, pungent smell, which is often released when it is cut or cooked."
+    },
+    {
+        "index": 9005,
+        "answer": "C",
+        "rationale": "Water spinach is known for its strong grassy aroma, making it the most likely candidate among the options."
+    },
+    {
+        "index": 9006,
+        "answer": "D",
+        "rationale": "Chinese chives have a strong onion-like aroma when cooked, making them the most fragrant vegetable among the options."
+    },
+    {
+        "index": 9007,
+        "answer": "B",
+        "rationale": "Among the options provided, eggplant is generally known to have a milder smell compared to the other vegetables listed."
+    },
+    {
+        "index": 9008,
+        "answer": "A",
+        "rationale": "Durian is known for its strong and distinctive odor, often described as pungent and sweet, which is released when it's ripe."
+    },
+    {
+        "index": 9009,
+        "answer": "D",
+        "rationale": "Pomelo has a mild and sweet aroma, making it the mildest among the options."
+    },
+    {
+        "index": 9010,
+        "answer": "D",
+        "rationale": "Spicy hot pot is known for its pungent aroma due to the combination of spices and chili peppers used in the dish."
+    },
+    {
+        "index": 9011,
+        "answer": "D",
+        "rationale": "Spicy foods are known for their strong and pungent aromas, and spicy chicken is a dish that is often associated with a strong aroma."
+    },
+    {
+        "index": 9012,
+        "answer": "C",
+        "rationale": "Boiled fish with Sichuan pickles typically has a strong vinegar aroma due to the use of pickled ingredients."
+    },
+    {
+        "index": 9013,
+        "answer": "A",
+        "rationale": "Spicy strips typically have a strong aroma due to the presence of spices and seasonings."
+    },
+    {
+        "index": 9014,
+        "answer": "B",
+        "rationale": "Rice crisps generally have a milder smell compared to the other options."
+    },
+    {
+        "index": 9015,
+        "answer": "B",
+        "rationale": "Mint has a well-known refreshing aroma, making mint candy a likely candidate for the most refreshing snack."
+    },
+    {
+        "index": 9016,
+        "answer": "C",
+        "rationale": "Cod fish is a type of fish that is often associated with a milky or fishy aroma, making it the most likely option to have a milky aroma."
+    },
+    {
+        "index": 9017,
+        "answer": "B",
+        "rationale": "Caramel is a common flavor associated with chocolate, making it the most likely snack to have a caramel aroma."
+    },
+    {
+        "index": 9018,
+        "answer": "C",
+        "rationale": "Gummy candy is often made with fruit flavors and has a strong, fruity aroma."
+    },
+    {
+        "index": 9019,
+        "answer": "D",
+        "rationale": "Smoked meat jerky is a type of snack that is typically made from dried and smoked meat, which gives it a smoky aroma."
+    },
+    {
+        "index": 9020,
+        "answer": "B",
+        "rationale": "MSG is known for its strong umami flavor and pungent smell, which is often used to enhance the taste of various dishes."
+    },
+    {
+        "index": 9021,
+        "answer": "B",
+        "rationale": "Rock sugar is known for its sweet and distinct aroma, making it a popular choice for baking and cooking."
+    },
+    {
+        "index": 9022,
+        "answer": "B",
+        "rationale": "Sichuan peppercorn is known for its distinctive numbing and pungent aroma, which is often used in Sichuan cuisine."
+    },
+    {
+        "index": 9023,
+        "answer": "C",
+        "rationale": "Mint is known for its strong and refreshing aroma, making it the freshest smelling seasoning among the options."
+    },
+    {
+        "index": 9024,
+        "answer": "C",
+        "rationale": "MSG is commonly known for its strong umami flavor and aroma."
+    },
+    {
+        "index": 9025,
+        "answer": "A",
+        "rationale": "Vinegar is known for its strong, sour smell, making it the most likely candidate among the options."
+    },
+    {
+        "index": 9026,
+        "answer": "D",
+        "rationale": "Salt is a seasoning that is commonly used to add a salty taste to food."
+    },
+    {
+        "index": 9027,
+        "answer": "D",
+        "rationale": "White sugar has a relatively mild aroma compared to the other options, which are known for their pungent and spicy flavors."
+    },
+    {
+        "index": 9028,
+        "answer": "D",
+        "rationale": "Ground pepper has a more intense and pungent smell compared to the other options."
+    },
+    {
+        "index": 9029,
+        "answer": "A",
+        "rationale": "Fish sauce is commonly used in Southeast Asian cuisine and has a strong umami flavor that is often associated with seafood."
+    },
+    {
+        "index": 9030,
+        "answer": "A",
+        "rationale": "Cinnamon bark is known for its strong, woody aroma, which is often used in baking and cooking."
+    },
+    {
+        "index": 9031,
+        "answer": "D",
+        "rationale": "Dark soy sauce has a strong roasted aroma due to its high concentration of umami flavor compounds."
+    },
+    {
+        "index": 9032,
+        "answer": "C",
+        "rationale": "Shrimp paste is known for its strong umami flavor and pungent smell, which is often associated with saltiness."
+    },
+    {
+        "index": 9033,
+        "answer": "C",
+        "rationale": "Cooking wine is known for its strong and fragrant aroma, making it a popular choice in many recipes."
+    },
+    {
+        "index": 9034,
+        "answer": "B",
+        "rationale": "Lemon juice is known for its fresh and fragrant aroma, making it a popular choice for cooking and baking."
+    },
+    {
+        "index": 9035,
+        "answer": "D",
+        "rationale": "MSG is known for its strong umami flavor and pungent smell, making it a common ingredient in many savory dishes."
+    },
+    {
+        "index": 9036,
+        "answer": "C",
+        "rationale": "Condensed milk has a strong milky aroma due to its high sugar and fat content."
+    },
+    {
+        "index": 9037,
+        "answer": "A",
+        "rationale": "MSG is commonly known for its strong and distinctive umami flavor and aroma."
+    },
+    {
+        "index": 9038,
+        "answer": "A",
+        "rationale": "Lemon juice is known for its strong, fruity aroma, often used in cooking and baking."
+    },
+    {
+        "index": 9039,
+        "answer": "C",
+        "rationale": "Among the options provided, ground pepper is generally considered to have the mildest smell compared to vinegar, soy sauce, and salt."
+    },
+    {
+        "index": 9040,
+        "answer": "B",
+        "rationale": "Among the options, rock sugar is known for its mild and sweet flavor, making it the mildest in terms of smell."
+    },
+    {
+        "index": 9041,
+        "answer": "B",
+        "rationale": "Perfume is known for its strong and distinct fragrance, which is often used to evoke emotions and create a sensory experience."
+    },
+    {
+        "index": 9042,
+        "answer": "B",
+        "rationale": "Jasmine is known for its strong and distinct fragrance, often used in perfumes and aromatherapy."
+    },
+    {
+        "index": 9043,
+        "answer": "D",
+        "rationale": "Osmanthus is a flowering plant known for its strong and distinct fragrance."
+    },
+    {
+        "index": 9044,
+        "answer": "B",
+        "rationale": "Gardenias are known for their strong, sweet fragrance, which is often used in perfumes and fragrances."
+    },
+    {
+        "index": 9045,
+        "answer": "B",
+        "rationale": "Lavender is known for its distinct and pleasant fragrance."
+    },
+    {
+        "index": 9046,
+        "answer": "C",
+        "rationale": "Roses are known for their strong and distinct fragrance, which is often used in perfumes and fragrances."
+    },
+    {
+        "index": 9047,
+        "answer": "B",
+        "rationale": "Rose essential oil is known for its strong and distinct fragrance, often used in perfumes and aromatherapy."
+    },
+    {
+        "index": 9048,
+        "answer": "A",
+        "rationale": "Rose tea is known for its distinct and strong fragrance, which is often used in aromatherapy and perfumery."
+    },
+    {
+        "index": 9049,
+        "answer": "C",
+        "rationale": "Mint is known for its strong and distinct fragrance, often used in cooking and herbal remedies."
+    },
+    {
+        "index": 9050,
+        "answer": "A",
+        "rationale": "Pomelo is known for its strong and distinct fragrance, often used in aromatherapy and perfumes."
+    },
+    {
+        "index": 9051,
+        "answer": "C",
+        "rationale": "Freshly baked bread is known for its distinct and pleasant fragrance, which is often associated with the baking process."
+    },
+    {
+        "index": 9052,
+        "answer": "C",
+        "rationale": "Raw lamb is known for its strong and distinct fragrance, which is often associated with its high concentration of volatile compounds."
+    },
+    {
+        "index": 9053,
+        "answer": "A",
+        "rationale": "Raw chestnuts have a distinct, sweet fragrance that is often associated with the fall season."
+    },
+    {
+        "index": 9054,
+        "answer": "C",
+        "rationale": "Rock sugar syrup is known for its distinct fragrance due to the presence of aromatic compounds."
+    },
+    {
+        "index": 9055,
+        "answer": "C",
+        "rationale": "Green tea is known for its distinct fragrance, which is often associated with its aroma and flavor profile."
+    },
+    {
+        "index": 9056,
+        "answer": "C",
+        "rationale": "Baked cookies typically have a distinct fragrance due to the combination of ingredients and the baking process."
+    },
+    {
+        "index": 9057,
+        "answer": "D",
+        "rationale": "Pine nuts have a distinct, strong fragrance due to their high oil content and volatile compounds."
+    },
+    {
+        "index": 9058,
+        "answer": "C",
+        "rationale": "Raw eggs have a distinct, pungent smell due to the sulfur compounds present in the egg whites and yolks."
+    },
+    {
+        "index": 9059,
+        "answer": "C",
+        "rationale": "Peanut butter is known for its strong and distinct nutty fragrance."
+    },
+    {
+        "index": 9060,
+        "answer": "D",
+        "rationale": "Sesame paste is known for its strong and distinct nutty fragrance."
+    },
+    {
+        "index": 9061,
+        "answer": "B",
+        "rationale": "Durian is known for its strong and pungent smell, often compared to rotten eggs or sewage."
+    },
+    {
+        "index": 9062,
+        "answer": "A",
+        "rationale": "Stinky tofu is known for its strong and pungent odor, often compared to rotten eggs or sewage."
+    },
+    {
+        "index": 9063,
+        "answer": "C",
+        "rationale": "Canned herring is known for its strong, pungent smell due to the breakdown of its fatty acids during the canning process."
+    },
+    {
+        "index": 9064,
+        "answer": "C",
+        "rationale": "Socks worn for a day tend to have a strong, pungent odor due to the buildup of sweat and bacteria."
+    },
+    {
+        "index": 9065,
+        "answer": "D",
+        "rationale": "A dead rat is known to have a strong and pungent odor."
+    },
+    {
+        "index": 9066,
+        "answer": "B",
+        "rationale": "Dead fish typically have a strong and pungent odor due to the breakdown of their flesh."
+    },
+    {
+        "index": 9067,
+        "answer": "B",
+        "rationale": "A scarf that has been used for a year is likely to have a strong, pungent odor due to the buildup of bacteria and other microorganisms."
+    },
+    {
+        "index": 9068,
+        "answer": "D",
+        "rationale": "Cat feces are known for their strong and pungent odor."
+    },
+    {
+        "index": 9069,
+        "answer": "D",
+        "rationale": "A dryer in operation has a strong and pungent odor due to the heat and moisture it produces, which can cause lint and fabric fibers to break down and release strong-smelling particles."
+    },
+    {
+        "index": 9070,
+        "answer": "B",
+        "rationale": "Uncleaned cat litter boxes are notorious for their strong and pungent odor due to the accumulation of bacteria and waste."
+    },
+    {
+        "index": 9071,
+        "answer": "D",
+        "rationale": "Rotten pork has a more intense and pungent odor compared to the other options."
+    },
+    {
+        "index": 9072,
+        "answer": "D",
+        "rationale": "Glue that has been opened for six months tends to have a strong, pungent odor due to the evaporation of volatile solvents and the breakdown of the adhesive's chemical composition."
+    },
+    {
+        "index": 9073,
+        "answer": "D",
+        "rationale": "Milk that has expired for a year will have a more pungent odor compared to milk that has been opened for only one hour."
+    },
+    {
+        "index": 9074,
+        "answer": "A",
+        "rationale": "The body odor of house cats is often more pungent than that of stray dogs due to their indoor living conditions and diet."
+    },
+    {
+        "index": 9075,
+        "answer": "C",
+        "rationale": "Wastewater ponds often have a strong, pungent odor due to the presence of decaying organic matter and bacteria."
+    },
+    {
+        "index": 9076,
+        "answer": "B",
+        "rationale": "An unflushed toilet has a more pungent odor compared to an unused toilet, water heater, or toilet seat."
+    },
+    {
+        "index": 9077,
+        "answer": "A",
+        "rationale": "Rotting leaves are known for their strong and pungent odor, often associated with decay and decomposition."
+    },
+    {
+        "index": 9078,
+        "answer": "C",
+        "rationale": "A face mask that has been used for a day is likely to have a strong, pungent odor due to the buildup of bacteria and other microorganisms."
+    },
+    {
+        "index": 9079,
+        "answer": "D",
+        "rationale": "A moldy toothbrush has a strong, unpleasant odor due to the growth of bacteria and mold, making it the most pungent option."
+    },
+    {
+        "index": 9080,
+        "answer": "D",
+        "rationale": "Manure fertilizer is known for its strong and pungent odor, often associated with gardening and agriculture."
+    },
+    {
+        "index": 9081,
+        "answer": "A",
+        "rationale": "Basements are often located below ground level and can be prone to moisture, which can lead to unpleasant odors."
+    },
+    {
+        "index": 9082,
+        "answer": "B",
+        "rationale": "Hospitals are places where medical procedures are performed, and disinfectants are commonly used to prevent the spread of infections."
+    },
+    {
+        "index": 9083,
+        "answer": "B",
+        "rationale": "Restaurants are more likely to have disinfectant due to food handling and preparation."
+    },
+    {
+        "index": 9084,
+        "answer": "C",
+        "rationale": "A street food stall is typically accompanied by heavy cooking fumes and grease smell due to the cooking of food on-site."
+    },
+    {
+        "index": 9085,
+        "answer": "C",
+        "rationale": "Basements are often located below ground level and can be prone to moisture, which can lead to a musty smell."
+    },
+    {
+        "index": 9086,
+        "answer": "D",
+        "rationale": "A garden typically has a variety of plants and flowers that release fragrances, making it the place with the freshest scent."
+    },
+    {
+        "index": 9087,
+        "answer": "A",
+        "rationale": "Perfume is often sold in stores, and shopping malls have many stores that sell perfume."
+    },
+    {
+        "index": 9088,
+        "answer": "C",
+        "rationale": "Newly renovated houses often have a strong paint smell due to the fresh application of paint and other chemicals used in the renovation process."
+    },
+    {
+        "index": 9089,
+        "answer": "A",
+        "rationale": "The kitchen is where food is typically cooked, making it the most likely place to smell burnt food."
+    },
+    {
+        "index": 9090,
+        "answer": "A",
+        "rationale": "Floral fragrances are often associated with gardens and outdoor spaces, making a courtyard a likely location."
+    },
+    {
+        "index": 9091,
+        "answer": "B",
+        "rationale": "A car dealership is likely to have the smell of leather due to the presence of new cars and car interiors."
+    },
+    {
+        "index": 9092,
+        "answer": "C",
+        "rationale": "Bleach is commonly used in laundry, making the laundry room the most likely place to detect its smell."
+    },
+    {
+        "index": 9093,
+        "answer": "B",
+        "rationale": "The seaside is a location where you are most likely to smell salty scents due to the presence of ocean water and salt air."
+    },
+    {
+        "index": 9094,
+        "answer": "B",
+        "rationale": "A gym is a place where people typically engage in physical activities that cause sweating."
+    },
+    {
+        "index": 9095,
+        "answer": "C",
+        "rationale": "A warehouse is a large storage facility that often contains dusty products and materials, making it more likely to have a dusty smell."
+    },
+    {
+        "index": 9096,
+        "answer": "B",
+        "rationale": "Alcohol is often used in medical settings, so it is most likely to be detected in a hospital."
+    },
+    {
+        "index": 9097,
+        "answer": "C",
+        "rationale": "Restaurants often have a kitchen where food is prepared, and caramel is a common ingredient in many desserts."
+    },
+    {
+        "index": 9098,
+        "answer": "D",
+        "rationale": "Tire shops are where tires are sold and repaired, which is where the smell of rubber is most likely to be detected."
+    },
+    {
+        "index": 9099,
+        "answer": "B",
+        "rationale": "Vanilla is a common ingredient in baked goods, so a bakery is the most likely place to smell vanilla."
+    },
+    {
+        "index": 9100,
+        "answer": "D",
+        "rationale": "Mothballs are typically used to repel moths and other insects in clothing and textiles, making a wardrobe the most likely place to detect their smell."
+    }
+]
