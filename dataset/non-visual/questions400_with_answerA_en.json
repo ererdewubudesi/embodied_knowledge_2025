@@ -1,0 +1,4002 @@
+[
+    {
+        "index": 6001,
+        "question": "Which sound is usually louder: a monkey's footsteps or a crow's caw?",
+        "options": {
+            "A": "A crow's caw",
+            "B": "A monkey's footsteps",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6002,
+        "question": "Which sound is usually quieter: the fluttering of a butterfly's wings or the croaking of a frog?",
+        "options": {
+            "A": "The fluttering of a butterfly's wings",
+            "B": "The croaking of a frog",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6003,
+        "question": "Which sound is usually quieter: daily communication or cicada chirping?",
+        "options": {
+            "A": "Cicada chirping",
+            "B": "Daily communication",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6004,
+        "question": "In a quiet classroom, performing the following actions in a normal way, which action typically produces the loudest sound?",
+        "options": {
+            "A": "Turning pages",
+            "B": "Writing with a pencil",
+            "C": "Using an eraser",
+            "D": "Measuring length with a ruler"
+        }
+    },
+    {
+        "index": 6005,
+        "question": "Which of the following kitchen operations typically produces the least noise?",
+        "options": {
+            "A": "Steaming rice",
+            "B": "Chopping vegetables",
+            "C": "Stir-frying",
+            "D": "Boiling water"
+        }
+    },
+    {
+        "index": 6006,
+        "question": "Which type of floor usually produces the loudest sound when walking on it?",
+        "options": {
+            "A": "Wooden floor",
+            "B": "Concrete floor",
+            "C": "Ceramic tiles",
+            "D": "Carpet"
+        }
+    },
+    {
+        "index": 6007,
+        "question": "Which sound is usually louder: the sound of a stream or a waterfall?",
+        "options": {
+            "A": "The sound of a waterfall",
+            "B": "The sound of a stream",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6008,
+        "question": "In a quiet room, which sound is usually louder: the ticking of a watch or the vibration of a mobile phone?",
+        "options": {
+            "A": "Mobile phone vibration",
+            "B": "Watch ticking",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6009,
+        "question": "Which sound is usually quieter: the buzzing sound of a flying bee or the mooing sound of a cow?",
+        "options": {
+            "A": "The mooing sound of a cow",
+            "B": "The buzzing sound of a flying bee",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6010,
+        "question": "Which sound is usually louder: falling snowflakes or wind rustling through leaves?",
+        "options": {
+            "A": "Wind rustling through leaves",
+            "B": "Falling snowflakes",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6011,
+        "question": "Which sound is usually louder: the sound of a dripping faucet or the sound of normal water flow from a faucet?",
+        "options": {
+            "A": "Normal water flow from a faucet",
+            "B": "Dripping faucet sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6012,
+        "question": "Which sound is usually louder: ocean waves crashing on the shore or a small river flowing?",
+        "options": {
+            "A": "Ocean waves crashing",
+            "B": "A small river flowing",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6013,
+        "question": "Which sound is usually louder: the sound of drinking water or the sound of boiling water in a kettle?",
+        "options": {
+            "A": "The sound of boiling water in a kettle",
+            "B": "The sound of drinking water",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6014,
+        "question": "Which sound is usually louder: the sound of grinding coffee beans or the buzzing sound of a mosquito in flight?",
+        "options": {
+            "A": "The sound of grinding coffee beans",
+            "B": "The buzzing sound of a mosquito",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6015,
+        "question": "Which sound is usually louder: chicken being deep-fried in hot oil or sausages being grilled in a sausage grill?",
+        "options": {
+            "A": "Chicken being deep-fried in hot oil",
+            "B": "Sausages being grilled in a sausage grill",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6016,
+        "question": "Which sound is usually louder: the sound of frying fish or the sound of steaming fish?",
+        "options": {
+            "A": "Frying fish",
+            "B": "Steaming fish",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6017,
+        "question": "Which sound is usually louder, a train arriving at the station or mopping the floor?",
+        "options": {
+            "A": "A train arriving at the station",
+            "B": "Mopping the floor",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6018,
+        "question": "Rank the following sounds from loudest to quietest: applause, keyboard typing, crab crawling, baby crying.",
+        "options": {
+            "A": "Baby crying > Applause > Keyboard typing > Crab crawling",
+            "B": "Baby crying > Keyboard typing > Applause > Crab crawling",
+            "C": "Applause > Baby crying > Keyboard typing > Crab crawling",
+            "D": "Baby crying > Applause > Crab crawling > Keyboard typing"
+        }
+    },
+    {
+        "index": 6019,
+        "question": "Rank the following sounds from loudest to quietest: subway train arriving at station, pages turning in library, doorbell ringing, rocket launch.",
+        "options": {
+            "A": "Rocket launch > Subway train arrival > Doorbell ringing > Pages turning in library",
+            "B": "Rocket launch > Doorbell ringing > Subway train arrival > Pages turning in library",
+            "C": "Rocket launch > Subway train arrival > Pages turning in library > Doorbell ringing",
+            "D": "Rocket launch > Pages turning in library > Doorbell ringing > Subway train arrival"
+        }
+    },
+    {
+        "index": 6020,
+        "question": "Rank the following sounds from loudest to quietest: balloon popping sound, cockroach crawling on wooden floor, fireworks explosion, squeezing play dough.",
+        "options": {
+            "A": "Fireworks explosion > balloon popping > cockroach crawling on wooden floor > squeezing play dough",
+            "B": "Balloon popping > fireworks explosion > cockroach crawling on wooden floor > squeezing play dough",
+            "C": "Fireworks explosion > balloon popping > squeezing play dough > cockroach crawling on wooden floor",
+            "D": "Fireworks explosion > cockroach crawling on wooden floor > squeezing play dough > balloon popping sound"
+        }
+    },
+    {
+        "index": 6021,
+        "question": "Rank the following sounds from loudest to quietest: door lock turning sound, toilet flushing sound, fire alarm sound, earthworm movement sound.",
+        "options": {
+            "A": "Fire alarm > Toilet flushing > Door lock turning > Earthworm movement sound",
+            "B": "Fire alarm > Door lock turning > Toilet flushing > Earthworm movement sound",
+            "C": "Fire alarm > Door lock turning > Earthworm movement > Toilet flushing sound",
+            "D": "Fire alarm > Toilet flushing > Earthworm movement > Door lock turning sound"
+        }
+    },
+    {
+        "index": 6022,
+        "question": "Which sound typically has a higher pitch: a baby's cry or an adult's speech?",
+        "options": {
+            "A": "Baby's cry",
+            "B": "Adult's speech",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6023,
+        "question": "Which sound typically has a higher pitch: whistling or finger snapping?",
+        "options": {
+            "A": "Whistling",
+            "B": "Finger snapping",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6024,
+        "question": "Which sound typically has a higher pitch: the sound of a glass cup or a sushi roll falling onto concrete ground?",
+        "options": {
+            "A": "Glass cup",
+            "B": "Sushi roll",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6025,
+        "question": "Which sound typically has a higher pitch: wind chimes or falling leaves?",
+        "options": {
+            "A": "Wind chimes",
+            "B": "Sound of falling leaves",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6026,
+        "question": "Which sound typically has a higher pitch: elephant calls or bird songs?",
+        "options": {
+            "A": "Bird songs",
+            "B": "Elephant calls",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6027,
+        "question": "Which sound typically has a higher pitch: whistling or footsteps?",
+        "options": {
+            "A": "Whistling",
+            "B": "Footsteps",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6028,
+        "question": "Which sound typically has a higher pitch: a motorcycle engine sound or a bicycle bell ring?",
+        "options": {
+            "A": "Bicycle bell ring",
+            "B": "Motorcycle engine sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6029,
+        "question": "Which sound typically has a higher pitch: cutting an apple or a banana?",
+        "options": {
+            "A": "Cutting an apple",
+            "B": "Cutting a banana",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6030,
+        "question": "Which sound typically has a higher pitch: wind chimes or drums?",
+        "options": {
+            "A": "Wind chimes",
+            "B": "Drums",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6031,
+        "question": "Which sound typically has a higher pitch: a tire explosion sound or glass shattering sound?",
+        "options": {
+            "A": "Glass shattering sound",
+            "B": "Tire explosion sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6032,
+        "question": "Which sound typically has a higher pitch: the buzzing sound of a mosquito or a fly in flight?",
+        "options": {
+            "A": "Mosquito's buzzing sound",
+            "B": "Fly's buzzing sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6033,
+        "question": "Which sound typically has a higher pitch: the highest note on a piano or the sound of applause?",
+        "options": {
+            "A": "The highest piano note",
+            "B": "Applause",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6034,
+        "question": "Which sound typically has a higher pitch: the echo in the valley or the sound of flowing water on the mountain?",
+        "options": {
+            "A": "The sound of flowing water on the mountain",
+            "B": "The echo in the valley",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6035,
+        "question": "Which sound typically has a higher pitch: a microwave oven operating or a telephone ring?",
+        "options": {
+            "A": "Telephone ring",
+            "B": "Microwave oven operating sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6036,
+        "question": "Which sound typically has a higher pitch: the sound of a glass breaking or the sound of knocking on a wooden floor?",
+        "options": {
+            "A": "Glass breaking",
+            "B": "Knocking on wooden floor",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6037,
+        "question": "Which sound typically has a higher pitch: a cough sound or wind chimes?",
+        "options": {
+            "A": "Cough sound",
+            "B": "Wind chimes",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6038,
+        "question": "How should you position your fingers to produce a louder sound on the piano?",
+        "options": {
+            "A": "Lift them higher",
+            "B": "Lift them back closer to the palm",
+            "C": "Lift them forward away from the palm",
+            "D": "Lift them barely off the keys"
+        }
+    },
+    {
+        "index": 6039,
+        "question": "Which of the following sounds is usually louder?",
+        "options": {
+            "A": "Wooden chopsticks dropping on the floor",
+            "B": "Moving a mouse on a mousepad",
+            "C": "A paper plate dropping on the floor after eating cake",
+            "D": "Wiping mouth with a tissue"
+        }
+    },
+    {
+        "index": 6040,
+        "question": "In a porcelain bowl half-filled with milk, which method typically produces the loudest sound?",
+        "options": {
+            "A": "Tapping the bottom of the bowl with a spoon",
+            "B": "Stirring quickly with small movements using a spoon",
+            "C": "Stirring slowly with large movements using a spoon",
+            "D": "Rotating a spoon along the edge of the bowl"
+        }
+    },
+    {
+        "index": 6041,
+        "question": "Which action on aluminum foil with hands typically produces the loudest sound?",
+        "options": {
+            "A": "Quick crumpling",
+            "B": "Slow tearing",
+            "C": "Slow folding",
+            "D": "Gentle smoothing"
+        }
+    },
+    {
+        "index": 6042,
+        "question": "When applying the same force to squeeze the following items, which one usually makes the loudest sound?",
+        "options": {
+            "A": "Plastic sheet",
+            "B": "Tissue paper",
+            "C": "Towel",
+            "D": "Sweater"
+        }
+    },
+    {
+        "index": 6043,
+        "question": "Which sound is usually louder: a basketball or a table tennis ball dropped from the same height onto a wooden floor?",
+        "options": {
+            "A": "Basketball",
+            "B": "Table tennis ball",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6044,
+        "question": "Which sound is usually louder: rubbing two pieces of sandpaper together or rubbing two pieces of silk together at the same speed?",
+        "options": {
+            "A": "Sandpaper",
+            "B": "Silk",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6045,
+        "question": "Which sound is usually louder: tearing a piece of paper or placing a piece of paper on a table?",
+        "options": {
+            "A": "The sound of tearing paper",
+            "B": "The sound of placing paper on a table",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6046,
+        "question": "When touching a table with your hand, which action typically produces the loudest sound?",
+        "options": {
+            "A": "Slapping with the entire palm",
+            "B": "Rubbing with the knuckles",
+            "C": "Tapping with the fingertips",
+            "D": "Almost the same"
+        }
+    },
+    {
+        "index": 6047,
+        "question": "Which sound is usually louder: a stone or a paper ball of the same size hitting a wooden board?",
+        "options": {
+            "A": "The stone",
+            "B": "The paper ball",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6048,
+        "question": "Which sound is usually louder: crushing garlic with the flat side of a cleaver or hitting the chopping board with the back of the knife?",
+        "options": {
+            "A": "Hitting the chopping board with the back of the knife",
+            "B": "Crushing garlic with the flat side of a cleaver",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6049,
+        "question": "Which sound is usually louder: dropping an eggshell or a walnut shell on ceramic tile floor?",
+        "options": {
+            "A": "Walnut shell",
+            "B": "Eggshell",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6050,
+        "question": "Which sound is usually louder: quickly crumpling plastic wrap or baking paper with hands?",
+        "options": {
+            "A": "Baking paper",
+            "B": "Plastic wrap",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6051,
+        "question": "Which sound is usually louder: quickly crumpling a plastic bag or a paper napkin with hands?",
+        "options": {
+            "A": "Plastic bag",
+            "B": "Paper napkin",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6052,
+        "question": "Which sound is usually quieter: clicking a ballpoint pen or pressing a stapler?",
+        "options": {
+            "A": "Clicking a ballpoint pen",
+            "B": "Pressing a stapler",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6053,
+        "question": "Which sound is usually louder: tapping a tree trunk or a metal pole with your hand?",
+        "options": {
+            "A": "Tapping the metal pole",
+            "B": "Tapping the tree trunk",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6054,
+        "question": "Which sound is usually louder: kicking an aluminum can against a wall or grass?",
+        "options": {
+            "A": "Against the wall",
+            "B": "Against the grass",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6055,
+        "question": "Which sound is usually louder: dragging a wooden box on a beach or concrete ground?",
+        "options": {
+            "A": "Concrete ground",
+            "B": "Beach",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6056,
+        "question": "Which sound is usually louder: stepping into a puddle or stepping into sand on a rainy day?",
+        "options": {
+            "A": "Stepping into a puddle",
+            "B": "Stepping into sand",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6057,
+        "question": "Which sound is usually louder: rubbing transparent tape or cotton string with the same force?",
+        "options": {
+            "A": "Transparent tape",
+            "B": "Cotton string",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6058,
+        "question": "Which sound is usually louder: cutting a carrot or a tomato with a knife?",
+        "options": {
+            "A": "Carrot",
+            "B": "Tomato",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6059,
+        "question": "Which sound is usually louder: shaking a bottle filled with water or a bottle half-filled with water by hand?",
+        "options": {
+            "A": "The half-filled bottle",
+            "B": "The fully filled bottle",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6060,
+        "question": "Which sound is usually quieter: typing on a physical keyboard or typing on a touchscreen?",
+        "options": {
+            "A": "Typing on a touchscreen",
+            "B": "Typing on a physical keyboard",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6061,
+        "question": "Which sound is usually louder: slapping a dry cement floor or a puddle of water on the ground?",
+        "options": {
+            "A": "The puddle of water",
+            "B": "The dry cement floor",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6062,
+        "question": "When playing the piano, what should we do to make the sound gradually louder?",
+        "options": {
+            "A": "Press the keys with increasing force",
+            "B": "Press the keys from left to right",
+            "C": "Hold the keys down for longer durations",
+            "D": "Press the keys with increasing speed"
+        }
+    },
+    {
+        "index": 6063,
+        "question": "Which sound is usually louder: cutting an apple or cutting a banana?",
+        "options": {
+            "A": "Cutting an apple",
+            "B": "Cutting a banana",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6064,
+        "question": "Which sound is usually louder: cutting cucumbers or loofah?",
+        "options": {
+            "A": "Cutting cucumber",
+            "B": "Cutting loofah",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6065,
+        "question": "Which sound is usually louder: chicken being deep-fried in hot oil or sausages being grilled in a sausage grill?",
+        "options": {
+            "A": "Deep-frying chicken in hot oil",
+            "B": "Grilling sausages in a sausage grill",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6066,
+        "question": "Which sound is usually louder: the sizzling of pan-fried fish or the steaming of fish?",
+        "options": {
+            "A": "Pan-fried fish",
+            "B": "Steamed fish",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6067,
+        "question": "Which sound is usually louder: walking on a carpet or stomping on a carpet?",
+        "options": {
+            "A": "Stomping sound",
+            "B": "Walking sound",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6068,
+        "question": "Which sound is usually louder: sharpening a pencil or slicing a cucumber?",
+        "options": {
+            "A": "Slicing a cucumber",
+            "B": "Sharpening a pencil",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6069,
+        "question": "Which surface produces louder footsteps: running on a rubber track or wooden floor?",
+        "options": {
+            "A": "Running on wooden floor",
+            "B": "Running on rubber track",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6070,
+        "question": "Which sound is usually louder: a flower petal or an apple falling from the same height onto concrete?",
+        "options": {
+            "A": "The apple",
+            "B": "The flower petal",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6071,
+        "question": "In a quiet flower shop, which sound is usually louder: the sound of trimming flower stems or the sound of crinkling wrapping paper?",
+        "options": {
+            "A": "Crinkling wrapping paper",
+            "B": "Trimming flower stems",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6072,
+        "question": "Which sound is usually louder: typing on a smartphone touchscreen or typing on a computer keyboard?",
+        "options": {
+            "A": "Typing on a computer keyboard",
+            "B": "Typing on a smartphone touchscreen",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6073,
+        "question": "When playing the piano, what should we do if we want to produce increasingly higher pitch sounds?",
+        "options": {
+            "A": "Press the keys from left to right",
+            "B": "Press the keys from right to left",
+            "C": "Hold down the keys for longer durations",
+            "D": "Press the keys at increasing speeds"
+        }
+    },
+    {
+        "index": 6074,
+        "question": "When playing the piano, if you press the same key with greater force versus lesser force, which one typically produces a higher pitch?",
+        "options": {
+            "A": "The same pitch",
+            "B": "With greater force",
+            "C": "With lesser force",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6075,
+        "question": "Which sound typically has a higher pitch: raindrops falling on metal sheets or on soil?",
+        "options": {
+            "A": "Falling on metal sheets",
+            "B": "Falling on soil",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6076,
+        "question": "Which sound typically has a lower pitch: raindrops falling on glass or on leaves?",
+        "options": {
+            "A": "Falling on leaves",
+            "B": "Falling on glass",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6077,
+        "question": "Which sound typically has a higher pitch: raindrops falling on a metal sheet or on a wooden board?",
+        "options": {
+            "A": "On the metal sheet",
+            "B": "On the wooden board",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6078,
+        "question": "Which sound typically has a higher pitch: a small pebble falling into an iron bucket or a wooden bucket?",
+        "options": {
+            "A": "Iron bucket",
+            "B": "Wooden bucket",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6079,
+        "question": "Which sound typically has a higher pitch: a book falling on a carpet or on ceramic tiles?",
+        "options": {
+            "A": "Ceramic tiles",
+            "B": "Carpet",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6080,
+        "question": "Which sound typically has a higher pitch: tapping a porcelain bowl or a wooden bowl with chopsticks?",
+        "options": {
+            "A": "Porcelain bowl",
+            "B": "Wooden bowl",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6081,
+        "question": "Which sound typically has a lower pitch: striking a steel pipe or a wooden stick with a hammer?",
+        "options": {
+            "A": "Wooden stick",
+            "B": "Steel pipe",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6082,
+        "question": "Which sound typically has a higher pitch: plucking the teeth of a wooden comb or a plastic comb with your fingers?",
+        "options": {
+            "A": "Plastic comb",
+            "B": "Wooden comb",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6083,
+        "question": "Which sound typically has a higher pitch: plucking the plastic teeth or the wooden teeth of a comb with a toothpick?",
+        "options": {
+            "A": "Plastic teeth",
+            "B": "Wooden teeth",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6084,
+        "question": "Which sound typically has a higher pitch: a basketball or a table tennis ball dropped from the same height onto a wooden floor?",
+        "options": {
+            "A": "Table tennis ball",
+            "B": "Basketball",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6085,
+        "question": "Which sound typically has a higher pitch: walking on a marble floor or on a sandy beach?",
+        "options": {
+            "A": "Marble floor",
+            "B": "Sandy beach",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6086,
+        "question": "Which sound typically has a higher pitch: tapping on the fabric surface or on the wooden armrest of a sofa?",
+        "options": {
+            "A": "Wooden armrest",
+            "B": "Fabric surface",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6087,
+        "question": "Which sound typically has a higher pitch: wind blowing through glass wind chimes or bamboo wind chimes?",
+        "options": {
+            "A": "Glass wind chimes",
+            "B": "Bamboo wind chimes",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6088,
+        "question": "Which sound typically has a higher pitch: a plastic ball dropped on a ceramic tile floor or on grass?",
+        "options": {
+            "A": "Ceramic tile floor",
+            "B": "Grass",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6089,
+        "question": "Which sound typically has a higher pitch: a stone dropping into a plastic bucket filled with water or into a plastic bucket filled with sand?",
+        "options": {
+            "A": "The bucket filled with water",
+            "B": "The bucket filled with sand",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6090,
+        "question": "Which sound typically has a higher pitch: a stone dropping into an empty plastic bucket or into a plastic bucket filled with sand?",
+        "options": {
+            "A": "Empty plastic bucket",
+            "B": "Plastic bucket filled with sand",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6091,
+        "question": "Which sound typically has a higher pitch: tapping a coin against a glass window or a wooden window frame?",
+        "options": {
+            "A": "Glass window",
+            "B": "Wooden window frame",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6092,
+        "question": "Which sound typically has a higher pitch: the sizzling sound of roasting chicken skin or the bubbling sound of cooking porridge?",
+        "options": {
+            "A": "Roasting chicken skin",
+            "B": "Cooking porridge",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6093,
+        "question": "Which sound typically has a higher pitch: kicking a cardboard box or a metal bucket?",
+        "options": {
+            "A": "Kicking the metal bucket",
+            "B": "Kicking the cardboard box",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6094,
+        "question": "Which sound typically has a higher pitch: a car horn or a bicycle bell?",
+        "options": {
+            "A": "Bicycle bell",
+            "B": "Car horn",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6095,
+        "question": "Which sound typically has a higher pitch: a light bulb breaking on the floor or on the carpet?",
+        "options": {
+            "A": "On the floor",
+            "B": "On the carpet",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6096,
+        "question": "Which sound typically has a higher pitch: striking an iron door or a wooden door with a key?",
+        "options": {
+            "A": "Iron door",
+            "B": "Wooden door",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6097,
+        "question": "Which sound typically has a higher pitch: the sound of playing basketball or playing table tennis?",
+        "options": {
+            "A": "Playing table tennis",
+            "B": "Playing basketball",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6098,
+        "question": "Which sound typically has a higher pitch: the sound of fingernails scratching a chalkboard or the sound of hand clapping?",
+        "options": {
+            "A": "Fingernails scratching a chalkboard",
+            "B": "Hand clapping",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6099,
+        "question": "Which sound typically has a higher pitch: the sound of a glass breaking or the sound of knocking on a wooden floor?",
+        "options": {
+            "A": "Glass breaking",
+            "B": "Knocking on wooden floor",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 6100,
+        "question": "Which sound typically has a higher pitch: the sound of writing with a pencil or the sound of coins clinking?",
+        "options": {
+            "A": "Coins clinking",
+            "B": "Pencil writing",
+            "C": "Almost the same",
+            "D": "It depends"
+        }
+    },
+    {
+        "index": 7001,
+        "question": "Which material feels the smoothest to touch?",
+        "options": {
+            "A": "Cardstock",
+            "B": "Sandpaper",
+            "C": "Tree bark",
+            "D": "Towel"
+        }
+    },
+    {
+        "index": 7002,
+        "question": "Which surface feels the smoothest to touch?",
+        "options": {
+            "A": "Marble",
+            "B": "Wooden board",
+            "C": "Cotton fabric",
+            "D": "Linen fabric"
+        }
+    },
+    {
+        "index": 7003,
+        "question": "Which material feels the most different from other materials in terms of smoothness? (1) Iron plate (2) Velvet (3) Mirror (4) The surface of the plastic box",
+        "options": {
+            "A": "Velvet",
+            "B": "Iron plate",
+            "C": "Mirror",
+            "D": "The surface of the plastic box"
+        }
+    },
+    {
+        "index": 7004,
+        "question": "What kind of ground is the most slippery?",
+        "options": {
+            "A": "Ceramic tiles",
+            "B": "Concrete floor",
+            "C": "Asphalt",
+            "D": "Carpet"
+        }
+    },
+    {
+        "index": 7005,
+        "question": "Which type of floor surface provides the best slip resistance?",
+        "options": {
+            "A": "Silicone mat",
+            "B": "Ceramic tiles",
+            "C": "Marble",
+            "D": "Wooden floor"
+        }
+    },
+    {
+        "index": 7006,
+        "question": "What kind of ground is the most slippery on rainy days?",
+        "options": {
+            "A": "Marble",
+            "B": "Rubber track",
+            "C": "Beach",
+            "D": "Grass"
+        }
+    },
+    {
+        "index": 7007,
+        "question": "Which item feels the smoothest to touch?",
+        "options": {
+            "A": "Pearl",
+            "B": "Carpet",
+            "C": "Sponge",
+            "D": "Wood"
+        }
+    },
+    {
+        "index": 7008,
+        "question": "Which item feels the smoothest to touch?",
+        "options": {
+            "A": "Stainless steel chopsticks",
+            "B": "Chalk",
+            "C": "Live crucian carp",
+            "D": "Wooden chopsticks"
+        }
+    },
+    {
+        "index": 7009,
+        "question": "Which type of bottle is the easiest to grip?",
+        "options": {
+            "A": "Frosted glass bottle",
+            "B": "Plastic bottle",
+            "C": "Metal bottle",
+            "D": "Ceramic bottle"
+        }
+    },
+    {
+        "index": 7010,
+        "question": "Which type of pot handle provides the best grip?",
+        "options": {
+            "A": "Silicone handle",
+            "B": "Wooden handle",
+            "C": "Metal handle",
+            "D": "Plastic handle"
+        }
+    },
+    {
+        "index": 7011,
+        "question": "Which type of paper has the smoothest surface?",
+        "options": {
+            "A": "Photo paper",
+            "B": "Newspaper",
+            "C": "Kraft paper",
+            "D": "Toilet paper"
+        }
+    },
+    {
+        "index": 7012,
+        "question": "Which type of paper has the smoothest surface?",
+        "options": {
+            "A": "Copy paper",
+            "B": "Watercolor paper",
+            "C": "Sketching paper",
+            "D": "Xuan paper"
+        }
+    },
+    {
+        "index": 7013,
+        "question": "Which ball has the smoothest surface?",
+        "options": {
+            "A": "Billiard ball",
+            "B": "Basketball",
+            "C": "Shuttlecock",
+            "D": "Tennis ball"
+        }
+    },
+    {
+        "index": 7014,
+        "question": "Which fabric is the smoothest?",
+        "options": {
+            "A": "satin",
+            "B": "cotton",
+            "C": "linen",
+            "D": "woolen cloth"
+        }
+    },
+    {
+        "index": 7015,
+        "question": "Which fruit has the smoothest skin?",
+        "options": {
+            "A": "Green apple",
+            "B": "Orange",
+            "C": "Strawberry",
+            "D": "Kiwi"
+        }
+    },
+    {
+        "index": 7016,
+        "question": "Which vegetable has the smoothest skin?",
+        "options": {
+            "A": "Eggplant",
+            "B": "Celtuce",
+            "C": "Carrot",
+            "D": "Potato"
+        }
+    },
+    {
+        "index": 7017,
+        "question": "Which fruit has the roughestt skin?",
+        "options": {
+            "A": "Pineapple",
+            "B": "Banana",
+            "C": "Pear",
+            "D": "Persimmon"
+        }
+    },
+    {
+        "index": 7018,
+        "question": "Which fruit or vegetable has the smoothest skin?",
+        "options": {
+            "A": "Watermelon",
+            "B": "Taro",
+            "C": "Lychee",
+            "D": "Mulberry"
+        }
+    },
+    {
+        "index": 7019,
+        "question": "Which fruit or vegetable has the smoothest skin?",
+        "options": {
+            "A": "Tomato",
+            "B": "Durian",
+            "C": "Luffa",
+            "D": "Waxberry"
+        }
+    },
+    {
+        "index": 7020,
+        "question": "Which fruit or vegetable has the roughest skin?",
+        "options": {
+            "A": "Mulberry",
+            "B": "Grapes",
+            "C": "Cherry",
+            "D": "Winter melon"
+        }
+    },
+    {
+        "index": 7021,
+        "question": "Which material is the most elastic?",
+        "options": {
+            "A": "Rubber",
+            "B": "Steel",
+            "C": "Plastic",
+            "D": "Wood"
+        }
+    },
+    {
+        "index": 7022,
+        "question": "Which type of knife handle has the highest elasticity?",
+        "options": {
+            "A": "Silicone handle",
+            "B": "Metal handle",
+            "C": "Plastic handle",
+            "D": "Wooden handle"
+        }
+    },
+    {
+        "index": 7023,
+        "question": "Which type of coaster has the highest elasticity?",
+        "options": {
+            "A": "Rubber coaster",
+            "B": "Yarn coaster",
+            "C": "Plastic coaster",
+            "D": "Wooden coaster"
+        }
+    },
+    {
+        "index": 7024,
+        "question": "Which type of gloves has the highest elasticity?",
+        "options": {
+            "A": "Silicone gloves",
+            "B": "Cotton gloves",
+            "C": "Knitted gloves",
+            "D": "Disposable plastic gloves"
+        }
+    },
+    {
+        "index": 7025,
+        "question": "Which type of rope has the highest elasticity?",
+        "options": {
+            "A": "Rubber rope",
+            "B": "Hemp rope",
+            "C": "Cotton rope",
+            "D": "Steel wire rope"
+        }
+    },
+    {
+        "index": 7026,
+        "question": "Which ball has the highest elasticity?",
+        "options": {
+            "A": "Table tennis ball",
+            "B": "Shuttlecock",
+            "C": "Bowling ball",
+            "D": "Plasticine ball"
+        }
+    },
+    {
+        "index": 7027,
+        "question": "Which toy has the highest elasticity?",
+        "options": {
+            "A": "Rubber ball",
+            "B": "Plasticine",
+            "C": "Slime",
+            "D": "Toy bricks"
+        }
+    },
+    {
+        "index": 7028,
+        "question": "Which dessert typically has the highest elasticity?",
+        "options": {
+            "A": "Pudding",
+            "B": "Cheesecake",
+            "C": "Cream puff",
+            "D": "Lady fingers"
+        }
+    },
+    {
+        "index": 7029,
+        "question": "Which food typically has the highest elasticity?",
+        "options": {
+            "A": "Jelly",
+            "B": "Potato chips",
+            "C": "Peanuts",
+            "D": "Ice cream"
+        }
+    },
+    {
+        "index": 7030,
+        "question": "Which food typically has the highest elasticity?",
+        "options": {
+            "A": "New Year cake",
+            "B": "Chocolate",
+            "C": "Cookie",
+            "D": "Nori"
+        }
+    },
+    {
+        "index": 7031,
+        "question": "Which food typically has the highest elasticity?",
+        "options": {
+            "A": "Kelp",
+            "B": "Carrot",
+            "C": "Nori",
+            "D": "Chinese yam"
+        }
+    },
+    {
+        "index": 7032,
+        "question": "Which instant food usually has the highest elasticity?",
+        "options": {
+            "A": "Tangyuan",
+            "B": "Dumplings",
+            "C": "Wonton",
+            "D": "Spring rolls"
+        }
+    },
+    {
+        "index": 7033,
+        "question": "Which seafood typically has the highest elasticity?",
+        "options": {
+            "A": "Grilled squid",
+            "B": "Steamed sea bass",
+            "C": "Braised crucian carp",
+            "D": "Pan-fried hairtail fish"
+        }
+    },
+    {
+        "index": 7034,
+        "question": "Which seafood typically has the highest elasticity?",
+        "options": {
+            "A": "Steamed sea snails",
+            "B": "Steamed crab",
+            "C": "Salmon sashimi",
+            "D": "Grilled eel"
+        }
+    },
+    {
+        "index": 7035,
+        "question": "Which seafood is usually the least elastic?",
+        "options": {
+            "A": "Boiled black fish fillet",
+            "B": "Octopus",
+            "C": "Oysters",
+            "D": "Scallops"
+        }
+    },
+    {
+        "index": 7036,
+        "question": "Which vegetable typically has the highest elasticity?",
+        "options": {
+            "A": "Eggplant",
+            "B": "Cabbage",
+            "C": "Potato",
+            "D": "Celtuce"
+        }
+    },
+    {
+        "index": 7037,
+        "question": "Which fruit typically has the highest elastic flesh?",
+        "options": {
+            "A": "Lychee",
+            "B": "Mulberry",
+            "C": "Banana",
+            "D": "Watermelon"
+        }
+    },
+    {
+        "index": 7038,
+        "question": "Which fruit typically has the highest elastic flesh?",
+        "options": {
+            "A": "Longan",
+            "B": "Durian",
+            "C": "Dragon fruit",
+            "D": "Waxberry"
+        }
+    },
+    {
+        "index": 7039,
+        "question": "Which fruit typically has the highest elastic flesh?",
+        "options": {
+            "A": "Coconut",
+            "B": "Pear",
+            "C": "Pomegranate",
+            "D": "Pear"
+        }
+    },
+    {
+        "index": 7040,
+        "question": "Which candy has the most elasticity?",
+        "options": {
+            "A": "Gummy candy",
+            "B": "Rock candy",
+            "C": "Lollipop",
+            "D": "Mint candy"
+        }
+    },
+    {
+        "index": 7041,
+        "question": "Which food is the hardest to bite?",
+        "options": {
+            "A": "Compressed biscuits",
+            "B": "Cookies",
+            "C": "Chocolate",
+            "D": "Gummy candy"
+        }
+    },
+    {
+        "index": 7042,
+        "question": "Which food is the hardest to bite?",
+        "options": {
+            "A": "Lollipop",
+            "B": "Soda crackers",
+            "C": "Wafer biscuits",
+            "D": "Pudding"
+        }
+    },
+    {
+        "index": 7043,
+        "question": "Which food is the hardest raw?",
+        "options": {
+            "A": "White radish",
+            "B": "Enoki mushroom",
+            "C": "Soybean sprouts",
+            "D": "Celery"
+        }
+    },
+    {
+        "index": 7044,
+        "question": "Which food is the most tender when cooked?",
+        "options": {
+            "A": "Tofu",
+            "B": "Soybeans",
+            "C": "Potato",
+            "D": "Soybean sprouts"
+        }
+    },
+    {
+        "index": 7045,
+        "question": "Which food is typically the crunchiest?",
+        "options": {
+            "A": "Potato chips",
+            "B": "Cookies",
+            "C": "Chocolate",
+            "D": "Jelly"
+        }
+    },
+    {
+        "index": 7046,
+        "question": "Which ripe fruit is the softest?",
+        "options": {
+            "A": "Banana",
+            "B": "Apple",
+            "C": "Pear",
+            "D": "Hami melon"
+        }
+    },
+    {
+        "index": 7047,
+        "question": "Which ripe fruit is the hardest?",
+        "options": {
+            "A": "Water chestnut",
+            "B": "Kiwi",
+            "C": "Cherry",
+            "D": "Grape"
+        }
+    },
+    {
+        "index": 7048,
+        "question": "Which fruit has the hardest peel?",
+        "options": {
+            "A": "Durian",
+            "B": "Banana",
+            "C": "Orange",
+            "D": "Plum"
+        }
+    },
+    {
+        "index": 7049,
+        "question": "Which fruit is the hardest to cut?",
+        "options": {
+            "A": "Coconut",
+            "B": "Watermelon",
+            "C": "Hami melon",
+            "D": "Pineapple"
+        }
+    },
+    {
+        "index": 7050,
+        "question": "Which fruit or vegetable is the softest?",
+        "options": {
+            "A": "Tomato",
+            "B": "Apple",
+            "C": "Pear",
+            "D": "Watermelon"
+        }
+    },
+    {
+        "index": 7051,
+        "question": "Which pastry has the softest texture?",
+        "options": {
+            "A": "Sponge cake",
+            "B": "Lady fingers",
+            "C": "Rusks",
+            "D": "Bagel"
+        }
+    },
+    {
+        "index": 7052,
+        "question": "Which pastry has the softest texture?",
+        "options": {
+            "A": "Chiffon cake",
+            "B": "Mooncake",
+            "C": "Walnut cookie",
+            "D": "Baguette"
+        }
+    },
+    {
+        "index": 7053,
+        "question": "Which candy is the softest?",
+        "options": {
+            "A": "Marshmallow",
+            "B": "Toffee",
+            "C": "Lollipop",
+            "D": "Rock candy"
+        }
+    },
+    {
+        "index": 7054,
+        "question": "Which pastry is typically the crunchiest?",
+        "options": {
+            "A": "Walnut Cookie",
+            "B": "Mooncake",
+            "C": "Chiffon Cake",
+            "D": "Baguette"
+        }
+    },
+    {
+        "index": 7055,
+        "question": "Which nut has the softest shell?",
+        "options": {
+            "A": "Peanut",
+            "B": "Walnut",
+            "C": "Pistachio",
+            "D": "Hazelnut"
+        }
+    },
+    {
+        "index": 7056,
+        "question": "Which item is the most easily deformable?",
+        "options": {
+            "A": "Plasticine",
+            "B": "Glass cup",
+            "C": "Stainless steel chopsticks",
+            "D": "Toy bricks"
+        }
+    },
+    {
+        "index": 7057,
+        "question": "Which item is the hardest?",
+        "options": {
+            "A": "Glass vase",
+            "B": "Plastic dustbin",
+            "C": "Paper box",
+            "D": "Kraft paper bag"
+        }
+    },
+    {
+        "index": 7058,
+        "question": "Which type of pen/pencil breaks most easily?",
+        "options": {
+            "A": "Crayon",
+            "B": "Pencil",
+            "C": "Fountain pen",
+            "D": "Ballpoint pen"
+        }
+    },
+    {
+        "index": 7059,
+        "question": "Which type of ruler breaks most easily?",
+        "options": {
+            "A": "Plastic ruler",
+            "B": "Wooden ruler",
+            "C": "Metal ruler",
+            "D": "Bamboo ruler"
+        }
+    },
+    {
+        "index": 7060,
+        "question": "Which type of paper is the hardest?",
+        "options": {
+            "A": "Cardstock",
+            "B": "Xuan paper",
+            "C": "Napkin",
+            "D": "Printer paper"
+        }
+    },
+    {
+        "index": 7061,
+        "question": "Which type of clothing is usually the heaviest?",
+        "options": {
+            "A": "Down jacket",
+            "B": "Shorts",
+            "C": "Shirt",
+            "D": "Socks"
+        }
+    },
+    {
+        "index": 7062,
+        "question": "Which type of complete ball is the heaviest?",
+        "options": {
+            "A": "Basketball",
+            "B": "Table tennis ball",
+            "C": "Tennis ball",
+            "D": "Baseball"
+        }
+    },
+    {
+        "index": 7063,
+        "question": "Which piece of exercise equipment is usually the lightest?",
+        "options": {
+            "A": "Jump rope",
+            "B": "Basketball",
+            "C": "Yoga mat",
+            "D": "Dumbbell"
+        }
+    },
+    {
+        "index": 7064,
+        "question": "Which stationery item is usually the heaviest?",
+        "options": {
+            "A": "Stapler",
+            "B": "Ruler",
+            "C": "Eraser",
+            "D": "Pencil"
+        }
+    },
+    {
+        "index": 7065,
+        "question": "Which musical instrument is usually the lightest?",
+        "options": {
+            "A": "Bamboo flute",
+            "B": "Violin",
+            "C": "Guitar",
+            "D": "Piano"
+        }
+    },
+    {
+        "index": 7066,
+        "question": "Which daily necessity is usually the lightest?",
+        "options": {
+            "A": "Toothbrush",
+            "B": "Wooden comb",
+            "C": "Towel",
+            "D": "Soap"
+        }
+    },
+    {
+        "index": 7067,
+        "question": "Which cleaning tool is usually the heaviest?",
+        "options": {
+            "A": "Mop",
+            "B": "Broom",
+            "C": "Cleaning cloth",
+            "D": "Brush"
+        }
+    },
+    {
+        "index": 7068,
+        "question": "Which kitchen appliance is usually the lightest?",
+        "options": {
+            "A": "Electric kettle",
+            "B": "Rice cooker",
+            "C": "Pressure cooker",
+            "D": "Microwave oven"
+        }
+    },
+    {
+        "index": 7069,
+        "question": "Which type of tableware is usually the heaviest?",
+        "options": {
+            "A": "Cup",
+            "B": "Chopsticks",
+            "C": "Spoon",
+            "D": "Fork"
+        }
+    },
+    {
+        "index": 7070,
+        "question": "Which fruit usually weighs the most per piece?",
+        "options": {
+            "A": "Pomelo",
+            "B": "Apple",
+            "C": "Pear",
+            "D": "Grape"
+        }
+    },
+    {
+        "index": 7071,
+        "question": "Which vegetable usually weighs the most per piece?",
+        "options": {
+            "A": "Winter melon",
+            "B": "Chinese cabbage",
+            "C": "Radish",
+            "D": "Cucumber"
+        }
+    },
+    {
+        "index": 7072,
+        "question": "Which vegetable usually weighs the most per piece?",
+        "options": {
+            "A": "Pumpkin",
+            "B": "Eggplant",
+            "C": "Green bell pepper",
+            "D": "Tomato"
+        }
+    },
+    {
+        "index": 7073,
+        "question": "Which nut usually weighs the least per piece?",
+        "options": {
+            "A": "Sunflower seeds",
+            "B": "Peanuts",
+            "C": "Pistachios",
+            "D": "Walnuts"
+        }
+    },
+    {
+        "index": 7074,
+        "question": "Which pet is usually the lightest?",
+        "options": {
+            "A": "Hamster",
+            "B": "Guinea pig",
+            "C": "Chinchilla",
+            "D": "Rabbit"
+        }
+    },
+    {
+        "index": 7075,
+        "question": "Which insect is usually the lightest?",
+        "options": {
+            "A": "Ant",
+            "B": "Butterfly",
+            "C": "Honeybee",
+            "D": "Cockroach"
+        }
+    },
+    {
+        "index": 7076,
+        "question": "Which animal typically has the thinnest legs?",
+        "options": {
+            "A": "Chicken",
+            "B": "Cat",
+            "C": "Dog",
+            "D": "Pig"
+        }
+    },
+    {
+        "index": 7077,
+        "question": "Which part of the human body is usually the thickest?",
+        "options": {
+            "A": "Waist",
+            "B": "Neck",
+            "C": "Arm",
+            "D": "Calf"
+        }
+    },
+    {
+        "index": 7078,
+        "question": "Which part of the human body is usually the thickest?",
+        "options": {
+            "A": "Neck",
+            "B": "Ankle",
+            "C": "Wrist",
+            "D": "Elbow"
+        }
+    },
+    {
+        "index": 7079,
+        "question": "Which object is usually the thickest?",
+        "options": {
+            "A": "Lamppost",
+            "B": "Fountain pen",
+            "C": "Adult male's wrist",
+            "D": "Adult male's ankle"
+        }
+    },
+    {
+        "index": 7080,
+        "question": "Which object is usually the thickest?",
+        "options": {
+            "A": "Rolling pin",
+            "B": "Chopsticks",
+            "C": "Drinking straw",
+            "D": "Pencil"
+        }
+    },
+    {
+        "index": 7081,
+        "question": "Which type of pipe is usually the thinnest?",
+        "options": {
+            "A": "Infusion tube",
+            "B": "Water pipe",
+            "C": "Gas pipe",
+            "D": "Air conditioning duct"
+        }
+    },
+    {
+        "index": 7082,
+        "question": "Which type of rope is usually the thinnest?",
+        "options": {
+            "A": "Sewing thread",
+            "B": "Shoelace",
+            "C": "Jump rope",
+            "D": "Climbing rope"
+        }
+    },
+    {
+        "index": 7083,
+        "question": "Which type of rope is usually the thinnest?",
+        "options": {
+            "A": "Dental floss",
+            "B": "Rope for tug of war",
+            "C": "Clothesline",
+            "D": "Ropeway rope"
+        }
+    },
+    {
+        "index": 7084,
+        "question": "Which vegetable is usually the thickest?",
+        "options": {
+            "A": "Winter melon",
+            "B": "Cucumber",
+            "C": "Carrot",
+            "D": "Green bell pepper"
+        }
+    },
+    {
+        "index": 7085,
+        "question": "Which vegetable is usually the thinnest?",
+        "options": {
+            "A": "Chinese yam",
+            "B": "Corn",
+            "C": "White radish",
+            "D": "Lotus root"
+        }
+    },
+    {
+        "index": 7086,
+        "question": "Which plant is usually the thinnest?",
+        "options": {
+            "A": "Bamboo",
+            "B": "Willow",
+            "C": "Ginkgo",
+            "D": "Metasequoia"
+        }
+    },
+    {
+        "index": 7087,
+        "question": "Which liquid has the highest viscosity?",
+        "options": {
+            "A": "Honey",
+            "B": "Sugar water",
+            "C": "Saline solution",
+            "D": "Clear water"
+        }
+    },
+    {
+        "index": 7088,
+        "question": "Which condiment has the highest viscosity?",
+        "options": {
+            "A": "Sesame paste",
+            "B": "Vinegar",
+            "C": "Cooking wine",
+            "D": "Soy sauce"
+        }
+    },
+    {
+        "index": 7089,
+        "question": "Which type of Chinese pastry is the stickiest?",
+        "options": {
+            "A": "Sweet soup balls",
+            "B": "Steamed buns",
+            "C": "Steamed bread",
+            "D": "Dumplings"
+        }
+    },
+    {
+        "index": 7090,
+        "question": "Which soup is usually the most viscous?",
+        "options": {
+            "A": "White fungus soup",
+            "B": "Nori soup",
+            "C": "Bok Choy soup",
+            "D": "Radish soup"
+        }
+    },
+    {
+        "index": 7091,
+        "question": "Which chopsticks feel the coolest at room temperature?",
+        "options": {
+            "A": "Stainless steel chopsticks",
+            "B": "Wooden chopsticks",
+            "C": "Plastic chopsticks",
+            "D": "Bamboo chopsticks"
+        }
+    },
+    {
+        "index": 7092,
+        "question": "Which surface feels the coldest when standing barefoot in winter?",
+        "options": {
+            "A": "Ceramic tiles",
+            "B": "Carpet",
+            "C": "Wooden floor",
+            "D": "Old clothes"
+        }
+    },
+    {
+        "index": 7093,
+        "question": "Which surface feels the coldest when standing barefoot in summer?",
+        "options": {
+            "A": "Ceramic tiles",
+            "B": "Carpet",
+            "C": "Wooden floor",
+            "D": "Old clothes"
+        }
+    },
+    {
+        "index": 7094,
+        "question": "Which type of slippers feel the warmest when you put them on in the morning?",
+        "options": {
+            "A": "Plush slippers",
+            "B": "Wooden slippers",
+            "C": "Plastic slippers",
+            "D": "Disposable slippers"
+        }
+    },
+    {
+        "index": 7095,
+        "question": "What material of the cup filled with cold water after touching the lips will not feel cold?",
+        "options": {
+            "A": "Paper cup",
+            "B": "Glass cup",
+            "C": "Stainless steel cup",
+            "D": "Plastic cup"
+        }
+    },
+    {
+        "index": 7096,
+        "question": "In the direct sunlight in summer, which material of outdoor chair feels the hottest when you first sit on it?",
+        "options": {
+            "A": "Wrought iron chair",
+            "B": "Wooden chair",
+            "C": "Plastic chair",
+            "D": "Fabric chair"
+        }
+    },
+    {
+        "index": 7097,
+        "question": "Which tableware handle feels the coolest at room temperature?",
+        "options": {
+            "A": "Ceramic",
+            "B": "Wood",
+            "C": "Plastic",
+            "D": "Bamboo"
+        }
+    },
+    {
+        "index": 7098,
+        "question": "In winter, which type of doorknob feels the coldes?",
+        "options": {
+            "A": "Brass",
+            "B": "Wooden",
+            "C": "Plastic",
+            "D": "Rubber-coated"
+        }
+    },
+    {
+        "index": 7099,
+        "question": "In summer, which curtain fabric feels the coolest?",
+        "options": {
+            "A": "Silk",
+            "B": "Cotton",
+            "C": "Linen",
+            "D": "Polar fleece"
+        }
+    },
+    {
+        "index": 7100,
+        "question": "In summer, which bed frame material feels the coolest?",
+        "options": {
+            "A": "Iron",
+            "B": "Wood",
+            "C": "Fabric",
+            "D": "Rattan"
+        }
+    },
+    {
+        "index": 8001,
+        "question": "Which group of foods are likely to be sour?",
+        "options": {
+            "A": "Lemon and hawthorn",
+            "B": "Grapes and milk",
+            "C": "Chili peppers and honey",
+            "D": "Chocolate and lemon"
+        }
+    },
+    {
+        "index": 8002,
+        "question": "Which group of foods are likely to be sour?",
+        "options": {
+            "A": "Vinegar and preserved plums",
+            "B": "Chili peppers and soy sauce",
+            "C": "Ham and apples",
+            "D": "Peaches and durian"
+        }
+    },
+    {
+        "index": 8003,
+        "question": "Which group of foods are likely to be sour?",
+        "options": {
+            "A": "Green plums and yogurt",
+            "B": "Spicy strips and green tea",
+            "C": "Pickled cabbage and beef jerky",
+            "D": "Bitter gourd and cola"
+        }
+    },
+    {
+        "index": 8004,
+        "question": "Which group of foods are likely to be sour?",
+        "options": {
+            "A": "Sour plum drink and passion fruit",
+            "B": "Blueberries and peanuts",
+            "C": "Steamed bread and peaches",
+            "D": "Red dates and onions"
+        }
+    },
+    {
+        "index": 8005,
+        "question": "Which group of foods are likely to be sour?",
+        "options": {
+            "A": "Pomelo and sea buckthorn",
+            "B": "Sour plum and almond",
+            "C": "Steak and orange",
+            "D": "Green pepper and persimmon"
+        }
+    },
+    {
+        "index": 8006,
+        "question": "Which group of foods are likely to be sweet?",
+        "options": {
+            "A": "Honey and raisins",
+            "B": "Salted fish and chocolate",
+            "C": "Cured meat and orange juice",
+            "D": "Watermelon and chili peppers"
+        }
+    },
+    {
+        "index": 8007,
+        "question": "Which group of foods are likely to be sweet?",
+        "options": {
+            "A": "Red dates and watermelon",
+            "B": "Ham and tomatoes",
+            "C": "Soy sauce and yogurt",
+            "D": "Pomelo and cured meat"
+        }
+    },
+    {
+        "index": 8008,
+        "question": "Which group of foods are likely to be sweet?",
+        "options": {
+            "A": "Double-skin milk and Daifuku",
+            "B": "Sweet orange and green bell pepper",
+            "C": "Banana and Chinese sauerkraut",
+            "D": "Raisins and kelp"
+        }
+    },
+    {
+        "index": 8009,
+        "question": "Which group of foods are likely to be sweet?",
+        "options": {
+            "A": "Bananas and strawberries",
+            "B": "Yogurt and Chinese sausage",
+            "C": "Pomelo and pickled vegetables",
+            "D": "Pineapple and chili peppers"
+        }
+    },
+    {
+        "index": 8010,
+        "question": "Which group of foods are likely to be sweet?",
+        "options": {
+            "A": "Cake and ice cream",
+            "B": "Cocoa and pickled gherkin",
+            "C": "Salad dressing and soy sauce",
+            "D": "Lemon and salted fish"
+        }
+    },
+    {
+        "index": 8011,
+        "question": "Which group of foods are likely to be bitter?",
+        "options": {
+            "A": "Coffee and bitter gourd",
+            "B": "Green bell pepper and lemon",
+            "C": "Honey and tomato",
+            "D": "Durian and grapes"
+        }
+    },
+    {
+        "index": 8012,
+        "question": "Which group of foods are likely to be bitter?",
+        "options": {
+            "A": "Lotus seeds and dandelion tea",
+            "B": "Apple and ice cream",
+            "C": "Hot and sour sauce and pomelo",
+            "D": "Banana and lemon"
+        }
+    },
+    {
+        "index": 8013,
+        "question": "Which group of foods are likely to be bitter?",
+        "options": {
+            "A": "Herbal jelly and dark chocolate",
+            "B": "Carrots and honey",
+            "C": "Persimmons and oranges",
+            "D": "Chocolate and ham"
+        }
+    },
+    {
+        "index": 8014,
+        "question": "Which group of foods are likely to be bitter?",
+        "options": {
+            "A": "Green tea and almonds",
+            "B": "Chinese sauerkraut and oranges",
+            "C": "Mustard and grapes",
+            "D": "Tomatoes and orange juice"
+        }
+    },
+    {
+        "index": 8015,
+        "question": "Which group of foods are likely to be bitter?",
+        "options": {
+            "A": "Celtuce and dried tangerine peel",
+            "B": "raisins and bananas",
+            "C": "ham and yogurt",
+            "D": "bitter melon and chili sauce"
+        }
+    },
+    {
+        "index": 8016,
+        "question": "Which group of foods are likely to be salty?",
+        "options": {
+            "A": "Cured meat and soy sauce",
+            "B": "Chili peppers and chocolate",
+            "C": "Honey peaches and bananas",
+            "D": "Yogurt and spicy strips"
+        }
+    },
+    {
+        "index": 8017,
+        "question": "Which group of foods are likely to be salty?",
+        "options": {
+            "A": "Smoked fish and instant noodles",
+            "B": "Chili sauce and grapes",
+            "C": "Strawberries and honey",
+            "D": "Bitter gourd and lemon"
+        }
+    },
+    {
+        "index": 8018,
+        "question": "Which group of foods are likely to be salty?",
+        "options": {
+            "A": "Pickled gherkin and salted duck egg",
+            "B": "Hami melon and apple",
+            "C": "Spicy strips and sour plum",
+            "D": "Almond and pomelo"
+        }
+    },
+    {
+        "index": 8019,
+        "question": "Which group of foods are likely to be salty?",
+        "options": {
+            "A": "Tea egg and braised pork trotters",
+            "B": "Orange juice and mandarin",
+            "C": "Raisins and sugarcane",
+            "D": "Tomatoes and butter hotpot"
+        }
+    },
+    {
+        "index": 8020,
+        "question": "Which group of foods are likely to be salty?",
+        "options": {
+            "A": "Pickled mustard tuber and spicy strips",
+            "B": "Cured meat and tomatoes",
+            "C": "Bitter gourd and cake",
+            "D": "Sausage and cucumber"
+        }
+    },
+    {
+        "index": 8021,
+        "question": "Which group of foods are likely to be spicy?",
+        "options": {
+            "A": "Spicy chicken and spicy crayfish",
+            "B": "Chocolate and grapes",
+            "C": "Grapes and tomatoes",
+            "D": "Strawberries and ham"
+        }
+    },
+    {
+        "index": 8022,
+        "question": "Which group of foods are likely to be spicy?",
+        "options": {
+            "A": "Onions and mustard",
+            "B": "Honey peaches and pickled vegetables",
+            "C": "Ice cream and barbecue",
+            "D": "Yogurt and pomelo"
+        }
+    },
+    {
+        "index": 8023,
+        "question": "Which group of foods are likely to be spicy?",
+        "options": {
+            "A": "Ginger and Sichuan peppercorn",
+            "B": "Peach and raisins",
+            "C": "Red beans and mung beans",
+            "D": "Peanuts and pineapple"
+        }
+    },
+    {
+        "index": 8024,
+        "question": "Which group of foods are likely to be spicy?",
+        "options": {
+            "A": "Green bell peppers and black pepper",
+            "B": "Braised eggs and tea eggs",
+            "C": "Pine nuts and coffee",
+            "D": "Wasabi and rose tea"
+        }
+    },
+    {
+        "index": 8025,
+        "question": "Which group of foods are likely to be spicy?",
+        "options": {
+            "A": "Bird's eye chili and butter hotpot",
+            "B": "Oolong tea and green bell pepper",
+            "C": "Ground pepper and rice",
+            "D": "Millet porridge and fish soup"
+        }
+    },
+    {
+        "index": 8026,
+        "question": "Which food is most likely to have a sour taste?",
+        "options": {
+            "A": "Apple",
+            "B": "Bread",
+            "C": "Beef",
+            "D": "Ice cream"
+        }
+    },
+    {
+        "index": 8027,
+        "question": "Which food is most likely to have a sour taste?",
+        "options": {
+            "A": "Blueberries",
+            "B": "Egg tart",
+            "C": "Fried chicken",
+            "D": "Butter"
+        }
+    },
+    {
+        "index": 8028,
+        "question": "Which food is most likely to have a sour taste?",
+        "options": {
+            "A": "Grapes",
+            "B": "Popcorn",
+            "C": "Lamb",
+            "D": "Doughnuts"
+        }
+    },
+    {
+        "index": 8029,
+        "question": "Which food is most likely to have a sour taste?",
+        "options": {
+            "A": "Apple vinegar",
+            "B": "Chicken wings",
+            "C": "Salad dressing",
+            "D": "Grilled fish"
+        }
+    },
+    {
+        "index": 8030,
+        "question": "Which food is most likely to have a sour taste?",
+        "options": {
+            "A": "Orange juice",
+            "B": "Hamburger",
+            "C": "French fries",
+            "D": "Cola"
+        }
+    },
+    {
+        "index": 8031,
+        "question": "Which food is most likely to have a sweet taste?",
+        "options": {
+            "A": "Raisins",
+            "B": "Grilled fish",
+            "C": "Roast chicken",
+            "D": "Mashed potatoes"
+        }
+    },
+    {
+        "index": 8032,
+        "question": "Which food is most likely to have a sweet taste?",
+        "options": {
+            "A": "Jelly",
+            "B": "Milk",
+            "C": "Tofu",
+            "D": "Lamb"
+        }
+    },
+    {
+        "index": 8033,
+        "question": "Which food is most likely to have a sweet taste?",
+        "options": {
+            "A": "Doughnut",
+            "B": "Chicken",
+            "C": "Lamb skewers",
+            "D": "Mushroom"
+        }
+    },
+    {
+        "index": 8034,
+        "question": "Which food is most likely to have a sweet taste?",
+        "options": {
+            "A": "Persimmon",
+            "B": "Potato chips",
+            "C": "Steak",
+            "D": "Rice"
+        }
+    },
+    {
+        "index": 8035,
+        "question": "Which food is most likely to have a sweet taste?",
+        "options": {
+            "A": "Longan",
+            "B": "Chinese cabbage",
+            "C": "Fried egg",
+            "D": "Braised egg"
+        }
+    },
+    {
+        "index": 8036,
+        "question": "Which food is most likely to have a bitter taste?",
+        "options": {
+            "A": "Mint",
+            "B": "Tofu",
+            "C": "Grilled fish",
+            "D": "Milk"
+        }
+    },
+    {
+        "index": 8037,
+        "question": "Which food is most likely to have a bitter taste?",
+        "options": {
+            "A": "Black coffee",
+            "B": "Fried egg",
+            "C": "Pickled cabbage",
+            "D": "Milk tea"
+        }
+    },
+    {
+        "index": 8038,
+        "question": "Which food is most likely to have a bitter taste?",
+        "options": {
+            "A": "Longjing tea",
+            "B": "Chinese mitten crab",
+            "C": "Red bean paste",
+            "D": "Roasted sweet potato"
+        }
+    },
+    {
+        "index": 8039,
+        "question": "Which food is most likely to have a bitter taste?",
+        "options": {
+            "A": "Mustard",
+            "B": "Jelly",
+            "C": "Sweet chili sauce",
+            "D": "Noodles"
+        }
+    },
+    {
+        "index": 8040,
+        "question": "Which food is most likely to have a bitter taste?",
+        "options": {
+            "A": "Tea leaves",
+            "B": "Ham",
+            "C": "Chicken breast",
+            "D": "Salad"
+        }
+    },
+    {
+        "index": 8041,
+        "question": "Which food is most likely to have a salty taste?",
+        "options": {
+            "A": "Smoked meat",
+            "B": "Red dates",
+            "C": "Apple",
+            "D": "Peach"
+        }
+    },
+    {
+        "index": 8042,
+        "question": "Which food is most likely to have a salty taste?",
+        "options": {
+            "A": "Grilled fish",
+            "B": "Corn",
+            "C": "Bell pepper",
+            "D": "Cola"
+        }
+    },
+    {
+        "index": 8043,
+        "question": "Which food is most likely to have a salty taste?",
+        "options": {
+            "A": "Soy sauce",
+            "B": "Orange",
+            "C": "Enoki mushroom",
+            "D": "Apple juice"
+        }
+    },
+    {
+        "index": 8044,
+        "question": "Which food is most likely to have a salty taste?",
+        "options": {
+            "A": "Chinese sausage",
+            "B": "Tomato",
+            "C": "Red wine",
+            "D": "Sour plum drink"
+        }
+    },
+    {
+        "index": 8045,
+        "question": "Which food is most likely to have a salty taste?",
+        "options": {
+            "A": "Beef jerky",
+            "B": "Apple pie",
+            "C": "Durian",
+            "D": "Chrysanthemum tea"
+        }
+    },
+    {
+        "index": 8046,
+        "question": "Which food is most likely to have a spicy taste?",
+        "options": {
+            "A": "Spicy hot pot",
+            "B": "Tanghulu",
+            "C": "Corn",
+            "D": "Nori"
+        }
+    },
+    {
+        "index": 8047,
+        "question": "Which food is most likely to have a spicy taste?",
+        "options": {
+            "A": "Spicy soup",
+            "B": "Pineapple",
+            "C": "Salad",
+            "D": "Beef bone soup"
+        }
+    },
+    {
+        "index": 8048,
+        "question": "Which food is most likely to have a spicy taste?",
+        "options": {
+            "A": "Mapo tofu",
+            "B": "Red bean bun",
+            "C": "Green tea",
+            "D": "Chinese crepe"
+        }
+    },
+    {
+        "index": 8049,
+        "question": "Which food is most likely to have a spicy taste?",
+        "options": {
+            "A": "Spicy chicken",
+            "B": "Fruit salad",
+            "C": "Bok Choy",
+            "D": "Nori soup"
+        }
+    },
+    {
+        "index": 8050,
+        "question": "Which food is most likely to have a spicy taste?",
+        "options": {
+            "A": "Sour and spicy rice noodles",
+            "B": "Coffee",
+            "C": "Grapes",
+            "D": "Hami melon"
+        }
+    },
+    {
+        "index": 8051,
+        "question": "Which food is least likely to have a sour taste?",
+        "options": {
+            "A": "Roasted chicken",
+            "B": "Orange",
+            "C": "Plum",
+            "D": "Peach"
+        }
+    },
+    {
+        "index": 8052,
+        "question": "Which food is least likely to have a sour taste?",
+        "options": {
+            "A": "Cream",
+            "B": "Chinese sauerkraut",
+            "C": "Lemon",
+            "D": "Cherry"
+        }
+    },
+    {
+        "index": 8053,
+        "question": "Which food is least likely to have a sour taste?",
+        "options": {
+            "A": "Stir-fried noodles",
+            "B": "Grapes",
+            "C": "Grapefruit",
+            "D": "Strawberries"
+        }
+    },
+    {
+        "index": 8054,
+        "question": "Which food is least likely to have a sour taste?",
+        "options": {
+            "A": "Steak",
+            "B": "Tomato",
+            "C": "Pineapple",
+            "D": "Blueberry"
+        }
+    },
+    {
+        "index": 8055,
+        "question": "Which food is least likely to have a sour taste?",
+        "options": {
+            "A": "Fried chicken",
+            "B": "Grapefruit",
+            "C": "Waxberry",
+            "D": "Apricot"
+        }
+    },
+    {
+        "index": 8056,
+        "question": "Which food is least likely to have a sweet taste?",
+        "options": {
+            "A": "Cured meat",
+            "B": "peach",
+            "C": "strawberry",
+            "D": "Goji berries"
+        }
+    },
+    {
+        "index": 8057,
+        "question": "Which food is least likely to have a sweet taste?",
+        "options": {
+            "A": "Hot and sour soup",
+            "B": "Lychee",
+            "C": "Apple",
+            "D": "Sweet potato"
+        }
+    },
+    {
+        "index": 8058,
+        "question": "Which food is least likely to have a sweet taste?",
+        "options": {
+            "A": "Salted fish",
+            "B": "Mango",
+            "C": "Grapefruit",
+            "D": "Pear"
+        }
+    },
+    {
+        "index": 8059,
+        "question": "Which food is least likely to have a sweet taste?",
+        "options": {
+            "A": "Butter hotpot",
+            "B": "Salad",
+            "C": "Grapes",
+            "D": "Cherries"
+        }
+    },
+    {
+        "index": 8060,
+        "question": "Which food is least likely to have a sweet taste?",
+        "options": {
+            "A": "Black pepper steak",
+            "B": "Pineapple",
+            "C": "Cola",
+            "D": "Corn"
+        }
+    },
+    {
+        "index": 8061,
+        "question": "Which food is least likely to have a bitter taste?",
+        "options": {
+            "A": "Corn",
+            "B": "Bitter gourd",
+            "C": "Coffee",
+            "D": "Green tea"
+        }
+    },
+    {
+        "index": 8062,
+        "question": "Which food is least likely to have a bitter taste?",
+        "options": {
+            "A": "Sweet potato",
+            "B": "Chocolate",
+            "C": "Oolong tea",
+            "D": "Bitter gourd"
+        }
+    },
+    {
+        "index": 8063,
+        "question": "Which food is least likely to have a salty taste?",
+        "options": {
+            "A": "Strawberry",
+            "B": "Salted fish",
+            "C": "Cured meat",
+            "D": "Salted peanut"
+        }
+    },
+    {
+        "index": 8064,
+        "question": "Which food is least likely to have a salty taste?",
+        "options": {
+            "A": "Honey",
+            "B": "Roasted chicken",
+            "C": "Potato chips",
+            "D": "Soy sauce"
+        }
+    },
+    {
+        "index": 8065,
+        "question": "Which food is least likely to have a salty taste?",
+        "options": {
+            "A": "Raisins",
+            "B": "Fried chicken",
+            "C": "Pan-seared steak",
+            "D": "Braised pork trotters"
+        }
+    },
+    {
+        "index": 8066,
+        "question": "Which food is least likely to have a salty taste?",
+        "options": {
+            "A": "Durian",
+            "B": "French fries",
+            "C": "Braised pork",
+            "D": "Braised duck neck"
+        }
+    },
+    {
+        "index": 8067,
+        "question": "Which food is least likely to have a salty taste?",
+        "options": {
+            "A": "Apple",
+            "B": "Soy sauce",
+            "C": "Hamburger",
+            "D": "Grilled lamb chops"
+        }
+    },
+    {
+        "index": 8068,
+        "question": "Which food is least likely to have a spicy taste?",
+        "options": {
+            "A": "Winter jujube",
+            "B": "Malatang",
+            "C": "Grilled fish",
+            "D": "Hulatang"
+        }
+    },
+    {
+        "index": 8069,
+        "question": "Which food is least likely to have a spicy taste?",
+        "options": {
+            "A": "Orange",
+            "B": "Hot and sour rice noodles",
+            "C": "Stir-fried pork with chili",
+            "D": "Spicy chicken wings"
+        }
+    },
+    {
+        "index": 8070,
+        "question": "Which of the following foods is generally the sourest?",
+        "options": {
+            "A": "Lemon",
+            "B": "Yogurt",
+            "C": "Mint",
+            "D": "Grapes"
+        }
+    },
+    {
+        "index": 8071,
+        "question": "Which of the following foods is generally the sourest?",
+        "options": {
+            "A": "Orange juice",
+            "B": "Green tea",
+            "C": "Peach",
+            "D": "Red dates"
+        }
+    },
+    {
+        "index": 8072,
+        "question": "Which of the following foods is generally the sourest?",
+        "options": {
+            "A": "Apple vinegar",
+            "B": "Apple",
+            "C": "Blueberry",
+            "D": "Strawberry"
+        }
+    },
+    {
+        "index": 8073,
+        "question": "Which of the following foods is generally the sweetest?",
+        "options": {
+            "A": "Lychee",
+            "B": "Plum",
+            "C": "Pepper",
+            "D": "Salted fish"
+        }
+    },
+    {
+        "index": 8074,
+        "question": "Which of the following foods is generally the sweetest?",
+        "options": {
+            "A": "Pomegranate",
+            "B": "Egg yolk",
+            "C": "Rice",
+            "D": "Cucumber"
+        }
+    },
+    {
+        "index": 8075,
+        "question": "Which of the following foods is generally the sweetest?",
+        "options": {
+            "A": "Honey",
+            "B": "Pineapple",
+            "C": "Peach",
+            "D": "Strawberry"
+        }
+    },
+    {
+        "index": 8076,
+        "question": "Which of the following foods is generally the most bitter?",
+        "options": {
+            "A": "Bitter gourd",
+            "B": "Pepper",
+            "C": "Watermelon",
+            "D": "Apple"
+        }
+    },
+    {
+        "index": 8077,
+        "question": "Which of the following foods is generally the most bitter?",
+        "options": {
+            "A": "Green tea",
+            "B": "Red dates",
+            "C": "Lemon",
+            "D": "Grapes"
+        }
+    },
+    {
+        "index": 8078,
+        "question": "Which of the following foods is generally the most bitter?",
+        "options": {
+            "A": "Lotus seeds",
+            "B": "Peach",
+            "C": "Banana",
+            "D": "Pear"
+        }
+    },
+    {
+        "index": 8079,
+        "question": "Which of the following foods is generally the saltiest?",
+        "options": {
+            "A": "Cured meat",
+            "B": "Tomato",
+            "C": "Lemon",
+            "D": "Blueberry"
+        }
+    },
+    {
+        "index": 8080,
+        "question": "Which of the following foods is generally the saltiest?",
+        "options": {
+            "A": "Pickled gherkin",
+            "B": "Cilantro",
+            "C": "Mint",
+            "D": "Red beans"
+        }
+    },
+    {
+        "index": 8081,
+        "question": "Which of the following foods is generally the saltiest?",
+        "options": {
+            "A": "Braised egg",
+            "B": "Coffee",
+            "C": "Peanuts",
+            "D": "Sunflower seeds"
+        }
+    },
+    {
+        "index": 8082,
+        "question": "Which of the following foods is generally the spiciest?",
+        "options": {
+            "A": "Mustard",
+            "B": "Yellow peach",
+            "C": "Cherry",
+            "D": "Banana"
+        }
+    },
+    {
+        "index": 8083,
+        "question": "Which of the following foods is generally the spiciest?",
+        "options": {
+            "A": "Butter hotpot",
+            "B": "cherry",
+            "C": "coffee",
+            "D": "mung bean"
+        }
+    },
+    {
+        "index": 8084,
+        "question": "Which of the following foods is generally the spiciest?",
+        "options": {
+            "A": "Green bell pepper",
+            "B": "Banana",
+            "C": "Raisins",
+            "D": "Almond"
+        }
+    },
+    {
+        "index": 8085,
+        "question": "Classify the following foods according to their taste: Chinese sauerkraut, lemon, honey peach, cured meat.",
+        "options": {
+            "A": "Group 1 (Chinese sauerkraut, lemon), Group 2 (honey peach), Group 3 (cured meat)",
+            "B": "Group 1 (Chinese sauerkraut, lemon, honey peach), Group 2 (cured meat)",
+            "C": "Group 1 (Chinese sauerkraut, lemon), Group 2 (honey peach, cured meat)",
+            "D": "Group 1 (Chinese sauerkraut), Group 2 (honey peach, lemon), Group 3 (cured meat)"
+        }
+    },
+    {
+        "index": 8086,
+        "question": "Classify the following foods according to their taste: honey, marshmallow, watermelon, mustard.",
+        "options": {
+            "A": "Group 1 (honey, marshmallow, watermelon), Group 2 (mustard)",
+            "B": "Group 1 (honey, marshmallow), Group 2 (mustard), Group 3 (watermelon)",
+            "C": "Group 1 (honey, watermelon), Group 2 (marshmallow, mustard)",
+            "D": "Group 1 (marshmallow, watermelon), Group 2 (honey, mustard)"
+        }
+    },
+    {
+        "index": 8087,
+        "question": "Classify the following foods according to their taste: spicy chicken wings, blueberries, oranges, green bell peppers.",
+        "options": {
+            "A": "Group 1 (spicy chicken wings, green bell peppers), Group 2 (blueberries, oranges)",
+            "B": "Group 1 (spicy chicken wings), Group 2 (blueberries, oranges), Group 3 (green bell peppers)",
+            "C": "Group 1 (blueberries, green bell peppers), Group 2 (spicy chicken wings, oranges)",
+            "D": "Group 1 (spicy chicken wings, green bell peppers), Group 2 (blueberries), Group 3 (oranges)"
+        }
+    },
+    {
+        "index": 8088,
+        "question": "Classify the following foods according to their taste: cherries, beef jerky, sour plums, Chinese sausage.",
+        "options": {
+            "A": "Group 1 (cherries), Group 2 (beef jerky, Chinese sausage), Group 3 (sour plums)",
+            "B": "Group 1 (cherries, sour plums), Group 2 (beef jerky, Chinese sausage)",
+            "C": "Group 1 (cherries), Group 2 (beef jerky), Group 3 (sour plums, Chinese sausage)",
+            "D": "Group 1 (beef jerky, cherries, sour plums), Group 2 (Chinese sausage)"
+        }
+    },
+    {
+        "index": 8089,
+        "question": "Classify the following foods according to their taste: yogurt, red dates, strawberries, lychee.",
+        "options": {
+            "A": "Group 1 (yogurt), Group 2 (red dates, strawberries, lychee)",
+            "B": "Group 1 (red dates, yogurt), Group 2 (strawberries, lychee)",
+            "C": "Group 1 (yogurt, red dates, strawberries), Group 2 (lychee)",
+            "D": "Group 1 (yogurt, lychee), Group 2 (red dates, strawberries)"
+        }
+    },
+    {
+        "index": 8090,
+        "question": "Classify the following foods according to their taste: sugarcane, salted fish, banana, soy sauce.",
+        "options": {
+            "A": "Group 1 (sugarcane, banana), Group 2 (salted fish, soy sauce)",
+            "B": "Group 1 (sugarcane, banana), Group 2 (salted fish), Group 3 (soy sauce)",
+            "C": "Group 1 (sugarcane), Group 2 (banana), Group 3 (salted fish, soy sauce)",
+            "D": "Group 1 (banana), Group 2 (sugarcane, salted fish, soy sauce)"
+        }
+    },
+    {
+        "index": 8091,
+        "question": "How many of the following sentences are semantically reasonable? (1) This chocolate is too sour, and it's absolutely my favorite. (2) The stir-fried meat with chili peppers is extremely spicy, making people sweat profusely after eating. (3) The saltiness of this lemonade is just right, and it's very thirst-quenching. (4) This sour plum drink has an intense tartness,  and it's truly memorable.",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8092,
+        "question": "How many of the following sentences are semantically reasonable? (1) I like to pour vinegar into stir-fries to add a touch of sourness. (2) This sausage is extremely bitter, which is a blessing for salt lovers. (3) I made a tomato salad today, and the sweet and sour taste is very refreshing. (4) The spiciness of this Sichuan hot pot is really stimulating, making it irresistible.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8093,
+        "question": "How many of the following sentences are semantically reasonable? (1) The cake he made is too sweet, with sweetness filling your mouth in just one bite. (2) The sweet and salty balance in this orange juice is perfect, making it very refreshing. (3) The sourness of these spicy crayfish is enough to make your tongue burn. (4) The combination of saltiness and aroma in these roasted chicken wings is truly delicious.",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8094,
+        "question": "How many of the following sentences are semantically reasonable? (1) Some vinegar was added to this noodle dish, making the sourness just right and enriching the flavor. (2) This cake is very sweet, reminiscent of childhood flavors. (3) This strawberry yogurt has a sweet and tangy taste, and one bite brings joy to your mood. (4) The coating of this fried chicken is slightly salty, but the meat is tender and smooth.",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8095,
+        "question": "How many of the following sentences are semantically reasonable? (1) The saltiness and spiciness of this curry complement each other perfectly, creating a rich flavor profile. (2) The bitterness and sweetness of this matcha cake interweave, making it quite unique. (3) The sweet taste of the sour-spicy rice noodles is irresistible. (4) The saltiness of this grilled meat combines with the smoky aroma from charcoal fire, resulting in an excellent taste.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8096,
+        "question": "How many of the following sentences are semantically reasonable? (1) This coffee has an intense salty taste, perfect for morning refreshment. (2) This apple juice has a strong bitter taste, making it very enjoyable to drink. (3) This grapefruit juice has a refreshing sourness with a hint of bitterness. (4) The sour and spicy flavors in the boiled fish with Sichuan pickles complement each other perfectly, making it very appetizing.",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8097,
+        "question": "How many of the following sentences are semantically reasonable? (1) The sour taste of these vinegar-stir-fried shredded potatoes is a bit strong, but it's appetizing. (2) The mixture of bitter and salty tastes in this coffee ice cream is particularly rich. (3) The bitterness of this lemon tea is refreshing, and it feels cool with just one sip. (4) These roasted chicken wings have just the right amount of saltiness, with a crispy skin and tender inside.",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8098,
+        "question": "How many of the following sentences are semantically reasonable? (1) This orange is very sweet with abundant juice, making you feel blissful with every bite. (2) The sourness and bitterness of this lemon cake complement each other perfectly, creating an excellent mouthfeel. (3) The spiciness and sourness of these pickled pepper chicken feet blend together, creating a unique flavor profile. (4) This kimchi has an intense sour taste that makes you reach for water after one bite.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8099,
+        "question": "How many of the following sentences are semantically reasonable? (1) The bitterness and fresh aroma of this green tea interweave, leaving a lingering aftertaste. (2) The sweet and sour taste of these sweet and sour spare ribs makes one want to take a few more bites. (3) The savory and sweet flavors of this peanut butter blend together, making each bite particularly satisfying. (4) The bitterness and garlic aroma of this cold cucumber dish stimulates one's appetite.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 8100,
+        "question": "How many of the following sentences are semantically reasonable? (1) This Yu-Xiang Pork has a unique combination of sour, sweet and spicy flavors, offering a rich taste experience. (2) This wasabi octopus is intensely spicy, making each bite memorable. (3) These chicken skewers have a strong sour taste, stimulating the taste buds with every bite. (4) This salt-baked chicken has a rich savory flavor, making every bite satisfying.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "index": 9001,
+        "question": "Which vegetable has the strongest smell when cut?",
+        "options": {
+            "A": "Onion",
+            "B": "Tomato",
+            "C": "Carrot",
+            "D": "Potato"
+        }
+    },
+    {
+        "index": 9002,
+        "question": "Which vegetable has the freshest and most fragrant aroma?",
+        "options": {
+            "A": "Cilantro",
+            "B": "Garlic",
+            "C": "Scallion",
+            "D": "Sweet potato"
+        }
+    },
+    {
+        "index": 9003,
+        "question": "Which vegetable often has a subtle fruity aroma?",
+        "options": {
+            "A": "Tomato",
+            "B": "Spinach",
+            "C": "Chinese yam",
+            "D": "Soybean"
+        }
+    },
+    {
+        "index": 9004,
+        "question": "Which vegetable has the most pungent smell before cooking?",
+        "options": {
+            "A": "Ginger",
+            "B": "Carrot",
+            "C": "Crown Daisy",
+            "D": "Celtuce"
+        }
+    },
+    {
+        "index": 9005,
+        "question": "Which vegetable most easily gives off a grassy aroma?",
+        "options": {
+            "A": "Water spinach",
+            "B": "Winter melon",
+            "C": "Carrot",
+            "D": "Pumpkin"
+        }
+    },
+    {
+        "index": 9006,
+        "question": "Which vegetable has the most fragrant aroma when cooked?",
+        "options": {
+            "A": "Celtuce",
+            "B": "Chinese chives",
+            "C": "Eggplant",
+            "D": "Winter melon"
+        }
+    },
+    {
+        "index": 9007,
+        "question": "Which vegetable has the mildest smell?",
+        "options": {
+            "A": "Eggplant",
+            "B": "Scallion",
+            "C": "Onion",
+            "D": "Ginger"
+        }
+    },
+    {
+        "index": 9008,
+        "question": "Which fruit has the most far-reaching aroma when ripe?",
+        "options": {
+            "A": "Durian",
+            "B": "Banana",
+            "C": "Apple",
+            "D": "Orange"
+        }
+    },
+    {
+        "index": 9009,
+        "question": "Which fruit has the mildest aroma?",
+        "options": {
+            "A": "Dragon fruit",
+            "B": "Pomelo",
+            "C": "Durian",
+            "D": "Passion fruit"
+        }
+    },
+    {
+        "index": 9010,
+        "question": "Which dish has the most pungent aroma?",
+        "options": {
+            "A": "Spicy hot pot",
+            "B": "Yangzhou fried rice",
+            "C": "Kung Pao chicken",
+            "D": "Stir-fried potato strips with green peppers"
+        }
+    },
+    {
+        "index": 9011,
+        "question": "Which dish has the most pungent aroma?",
+        "options": {
+            "A": "Spicy chicken",
+            "B": "Stir-fried eggs and tomatoes",
+            "C": "Sweet and sour spare ribs",
+            "D": "Egg fried rice"
+        }
+    },
+    {
+        "index": 9012,
+        "question": "Which dish has the strongest vinegar aroma?",
+        "options": {
+            "A": "Yuxiang shredded pork",
+            "B": "Boiled fish with Sichuan pickles",
+            "C": "Braised pork belly",
+            "D": "Steamed fish"
+        }
+    },
+    {
+        "index": 9013,
+        "question": "Which snack has the strongest aroma?",
+        "options": {
+            "A": "Spicy strips",
+            "B": "Cookies",
+            "C": "Gummy candies",
+            "D": "Chocolate"
+        }
+    },
+    {
+        "index": 9014,
+        "question": "Which snack has the mildest smell?",
+        "options": {
+            "A": "Whole wheat bread",
+            "B": "Spicy strips",
+            "C": "Cookies",
+            "D": "Rice crisps"
+        }
+    },
+    {
+        "index": 9015,
+        "question": "Which snack has the most refreshing aroma?",
+        "options": {
+            "A": "Mint candy",
+            "B": "Dried mango",
+            "C": "Dried strawberry",
+            "D": "Milk candy"
+        }
+    },
+    {
+        "index": 9016,
+        "question": "Which snack is most likely to have a milky aroma?",
+        "options": {
+            "A": "Cookies",
+            "B": "Potato chips",
+            "C": "Cod fish slices",
+            "D": "Nori"
+        }
+    },
+    {
+        "index": 9017,
+        "question": "Which snack is most likely to have a caramel aroma?",
+        "options": {
+            "A": "Cookies",
+            "B": "Chocolate",
+            "C": "Osmanthus cake",
+            "D": "Salt and pepper peanuts"
+        }
+    },
+    {
+        "index": 9018,
+        "question": "Which snack is most likely to have a fruity aroma?",
+        "options": {
+            "A": "Gummy candy",
+            "B": "Potato chips",
+            "C": "Nori",
+            "D": "Cookies"
+        }
+    },
+    {
+        "index": 9019,
+        "question": "Which snack is most likely to have a smoky aroma?",
+        "options": {
+            "A": "Smoked meat jerky",
+            "B": "Cookies",
+            "C": "Lollipop",
+            "D": "Chocolate"
+        }
+    },
+    {
+        "index": 9020,
+        "question": "Which seasoning has a distinctly pungent smell?",
+        "options": {
+            "A": "Ground pepper",
+            "B": "Salt",
+            "C": "White sugar",
+            "D": "MSG"
+        }
+    },
+    {
+        "index": 9021,
+        "question": "Which seasoning has the sweetest aroma?",
+        "options": {
+            "A": "Rock sugar",
+            "B": "Soy sauce",
+            "C": "Salt",
+            "D": "MSG"
+        }
+    },
+    {
+        "index": 9022,
+        "question": "Which seasoning has the most pungent smell?",
+        "options": {
+            "A": "Sichuan peppercorn",
+            "B": "Salt",
+            "C": "Ground cinnamon",
+            "D": "Chicken powder"
+        }
+    },
+    {
+        "index": 9023,
+        "question": "Which seasoning has the freshest smell?",
+        "options": {
+            "A": "Mint",
+            "B": "Ground pepper",
+            "C": "White sugar",
+            "D": "Salt"
+        }
+    },
+    {
+        "index": 9024,
+        "question": "Which seasoning has the strongest aroma?",
+        "options": {
+            "A": "Vinegar",
+            "B": "Salt",
+            "C": "Brown sugar",
+            "D": "MSG"
+        }
+    },
+    {
+        "index": 9025,
+        "question": "Which condiment has the sourest smell?",
+        "options": {
+            "A": "Vinegar",
+            "B": "Cooking wine",
+            "C": "Soy sauce",
+            "D": "Sesame oil"
+        }
+    },
+    {
+        "index": 9026,
+        "question": "Which seasoning most readily gives off a salty taste?",
+        "options": {
+            "A": "Oyster sauce",
+            "B": "Salt",
+            "C": "Sesame oil",
+            "D": "Cooking wine"
+        }
+    },
+    {
+        "index": 9027,
+        "question": "Which seasoning has the mildest aroma?",
+        "options": {
+            "A": "White sugar",
+            "B": "Chili pepper",
+            "C": "Sichuan peppercorn",
+            "D": "Mustard"
+        }
+    },
+    {
+        "index": 9028,
+        "question": "Which seasoning has the most pungent smell?",
+        "options": {
+            "A": "Ground pepper",
+            "B": "Soy sauce",
+            "C": "Salt",
+            "D": "White sugar"
+        }
+    },
+    {
+        "index": 9029,
+        "question": "Which condiment has the strongest seafood flavor?",
+        "options": {
+            "A": "Fish sauce",
+            "B": "Sesame oil",
+            "C": "Cooking wine",
+            "D": "Soy sauce"
+        }
+    },
+    {
+        "index": 9030,
+        "question": "Which seasoning has the strongest woody aroma?",
+        "options": {
+            "A": "Cinnamon bark",
+            "B": "Vinegar",
+            "C": "Salt",
+            "D": "White sugar"
+        }
+    },
+    {
+        "index": 9031,
+        "question": "Which seasoning has the strongest roasted aroma?",
+        "options": {
+            "A": "Dark soy sauce",
+            "B": "Cooking wine",
+            "C": "Salt",
+            "D": "Rock sugar"
+        }
+    },
+    {
+        "index": 9032,
+        "question": "Which condiment has the saltiest smell?",
+        "options": {
+            "A": "Shrimp paste",
+            "B": "Cooking wine",
+            "C": "Sesame oil",
+            "D": "MSG"
+        }
+    },
+    {
+        "index": 9033,
+        "question": "Which seasoning has the most fragrant aroma?",
+        "options": {
+            "A": "Sesame paste",
+            "B": "MSG",
+            "C": "Cooking wine",
+            "D": "White sugar"
+        }
+    },
+    {
+        "index": 9034,
+        "question": "Which seasoning has the freshest and most fragrant aroma?",
+        "options": {
+            "A": "Lemon juice",
+            "B": "Pepper",
+            "C": "White sugar",
+            "D": "Brown sugar"
+        }
+    },
+    {
+        "index": 9035,
+        "question": "Which condiment has the most pungent smell?",
+        "options": {
+            "A": "Mustard",
+            "B": "MSG",
+            "C": "Salt",
+            "D": "Rock candy"
+        }
+    },
+    {
+        "index": 9036,
+        "question": "Which condiment has the strongest milky aroma?",
+        "options": {
+            "A": "Condensed milk",
+            "B": "Pepper",
+            "C": "Lemon juice",
+            "D": "Mustard"
+        }
+    },
+    {
+        "index": 9037,
+        "question": "Which seasoning has the most fragrant aroma?",
+        "options": {
+            "A": "Peanut butter",
+            "B": "MSG",
+            "C": "Salt",
+            "D": "White sugar"
+        }
+    },
+    {
+        "index": 9038,
+        "question": "Which seasoning has the strongest fruity aroma?",
+        "options": {
+            "A": "Lemon juice",
+            "B": "Olive oil",
+            "C": "Dark soy sauce",
+            "D": "Sesame paste"
+        }
+    },
+    {
+        "index": 9039,
+        "question": "Which seasoning has the mildest smell?",
+        "options": {
+            "A": "Salt",
+            "B": "Ground pepper",
+            "C": "Soy sauce",
+            "D": "Vinegar"
+        }
+    },
+    {
+        "index": 9040,
+        "question": "Which seasoning has the mildest smell?",
+        "options": {
+            "A": "Rock sugar",
+            "B": "Sichuan peppercorn",
+            "C": "Ground pepper",
+            "D": "Fresh ginger"
+        }
+    },
+    {
+        "index": 9041,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Perfume",
+            "B": "Fresh mushrooms",
+            "C": "Bricks",
+            "D": "Corrugated cardboard"
+        }
+    },
+    {
+        "index": 9042,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Jasmine",
+            "B": "Soda",
+            "C": "Ice cubes",
+            "D": "Crystal"
+        }
+    },
+    {
+        "index": 9043,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Osmanthus",
+            "B": "Lucky bamboo",
+            "C": "Fertilizer",
+            "D": "Soil"
+        }
+    },
+    {
+        "index": 9044,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Gardenia",
+            "B": "Willow leaves",
+            "C": "Mimosa",
+            "D": "Asparagus fern"
+        }
+    },
+    {
+        "index": 9045,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Lavender",
+            "B": "Clean wooden floor",
+            "C": "Unused bedsheets ",
+            "D": "New shoebox"
+        }
+    },
+    {
+        "index": 9046,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Rose",
+            "B": "Clean swimsuit",
+            "C": "Washed scarf",
+            "D": "New building blocks"
+        }
+    },
+    {
+        "index": 9047,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Rose essential oil",
+            "B": "Pearl",
+            "C": "Frozen dumplings",
+            "D": "Wooden chopsticks"
+        }
+    },
+    {
+        "index": 9048,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Rose tea",
+            "B": "Eggplant",
+            "C": "Carrot",
+            "D": "Potato"
+        }
+    },
+    {
+        "index": 9049,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Mint",
+            "B": "Cabbage",
+            "C": "White sugar",
+            "D": "Cooking wine"
+        }
+    },
+    {
+        "index": 9050,
+        "question": "Which of the following things has the most distinct fragrance?",
+        "options": {
+            "A": "Pomelo",
+            "B": "Cucumber",
+            "C": "Broccoli",
+            "D": "Water spinach"
+        }
+    },
+    {
+        "index": 9051,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Freshly baked bread",
+            "B": "Unbaked bread dough",
+            "C": "Clean table",
+            "D": "Rubber gloves"
+        }
+    },
+    {
+        "index": 9052,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Grilled lamb skewers",
+            "B": "Raw lamb",
+            "C": "Flour",
+            "D": "Salt"
+        }
+    },
+    {
+        "index": 9053,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Roasted sweet potato",
+            "B": "Raw chestnuts",
+            "C": "Raw potato",
+            "D": "Raw corn"
+        }
+    },
+    {
+        "index": 9054,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Cooked rice",
+            "B": "Raw rice",
+            "C": "Raw mung beans",
+            "D": "Rock sugar syrup"
+        }
+    },
+    {
+        "index": 9055,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Green tea",
+            "B": "Teapot",
+            "C": "Glass",
+            "D": "Straw"
+        }
+    },
+    {
+        "index": 9056,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Baked cookies",
+            "B": "Soda",
+            "C": "Plain rice porridge",
+            "D": "Red cabbage"
+        }
+    },
+    {
+        "index": 9057,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Pine nuts",
+            "B": "Raw peanuts",
+            "C": "Peanut shells",
+            "D": "Pine nut shells"
+        }
+    },
+    {
+        "index": 9058,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Fried beef steak",
+            "B": "Raw beef",
+            "C": "Raw chicken wings",
+            "D": "Raw eggs"
+        }
+    },
+    {
+        "index": 9059,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Peanut butter",
+            "B": "Boiled chicken breast",
+            "C": "Boiled broccoli",
+            "D": "Boiled Bok Choy"
+        }
+    },
+    {
+        "index": 9060,
+        "question": "Which of the following has the most distinct fragrance?",
+        "options": {
+            "A": "Sesame paste",
+            "B": "Steamed carrots",
+            "C": "Boiled eggs",
+            "D": "Steamed bread"
+        }
+    },
+    {
+        "index": 9061,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Durian",
+            "B": "Pineapple",
+            "C": "Balloon",
+            "D": "Coin"
+        }
+    },
+    {
+        "index": 9062,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Stinky tofu",
+            "B": "Unused dinner plates",
+            "C": "Empty garbage bags",
+            "D": "Used headphones"
+        }
+    },
+    {
+        "index": 9063,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Canned herring",
+            "B": "Newly opened pack of tissues",
+            "C": "Cotton swab",
+            "D": "Empty cola can"
+        }
+    },
+    {
+        "index": 9064,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Socks worn for a day",
+            "B": "Empty bathtub",
+            "C": "Glass window",
+            "D": "Air purifier"
+        }
+    },
+    {
+        "index": 9065,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Dead rat",
+            "B": "Range hood",
+            "C": "Dishwasher",
+            "D": "Washing machine"
+        }
+    },
+    {
+        "index": 9066,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Dead fish",
+            "B": "Broom",
+            "C": "Mop",
+            "D": "New garbage bin"
+        }
+    },
+    {
+        "index": 9067,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Sewage",
+            "B": "Water pipe",
+            "C": "Faucet",
+            "D": "A scarf that has been used for a year"
+        }
+    },
+    {
+        "index": 9068,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Cat feces",
+            "B": "Range hood",
+            "C": "Air conditioner",
+            "D": "Inside the refrigerator"
+        }
+    },
+    {
+        "index": 9069,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Stagnant water at the bottom of a garbage bin",
+            "B": "Newly planted potted plants",
+            "C": "A hanger with a sweater drying on it",
+            "D": "A dryer in operation"
+        }
+    },
+    {
+        "index": 9070,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Uncleaned cat litter box",
+            "B": "Wine bottle",
+            "C": "New phone case",
+            "D": "A pillow that has been used for a month"
+        }
+    },
+    {
+        "index": 9071,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Rotten pork",
+            "B": "Freshly cooked braised pork",
+            "C": "Raw pork",
+            "D": "Braised pork that was cooked a day ago"
+        }
+    },
+    {
+        "index": 9072,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "An apple that has been left for six months",
+            "B": "A sofa that has been used for six months",
+            "C": "Glue that has been opened for six months",
+            "D": "A plaster sculpture that has been stored for six months"
+        }
+    },
+    {
+        "index": 9073,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Milk that expired a year ago",
+            "B": "A box of unopened milk",
+            "C": "Milk opened for one hour",
+            "D": "A computer mouse that has been stored for a year"
+        }
+    },
+    {
+        "index": 9074,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Body odor of stray dogs",
+            "B": "Body odor of house cats",
+            "C": "Clean cat litter",
+            "D": "New plastic litter box"
+        }
+    },
+    {
+        "index": 9075,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Wastewater pond",
+            "B": "Bleach",
+            "C": "Soap",
+            "D": "Laundry detergent"
+        }
+    },
+    {
+        "index": 9076,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Unflushed toilet",
+            "B": "Toilet seat",
+            "C": "Unused toilet",
+            "D": "Water heater"
+        }
+    },
+    {
+        "index": 9077,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Rotting leaves",
+            "B": "Stone pavement",
+            "C": "Wooden floor",
+            "D": "Bathroom tiles"
+        }
+    },
+    {
+        "index": 9078,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Clothes after running a marathon",
+            "B": "Swan feathers that have fallen",
+            "C": "A face mask that has been used for a day",
+            "D": "A fully packed backpack"
+        }
+    },
+    {
+        "index": 9079,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Moldy toothbrush",
+            "B": "Tissue paper that has been used for wiping tables",
+            "C": "Straw that has been used for drinking milk",
+            "D": "Used shuttlecock"
+        }
+    },
+    {
+        "index": 9080,
+        "question": "Which of the following has the most pungent odor?",
+        "options": {
+            "A": "Manure fertilizer",
+            "B": "Watering can",
+            "C": "Flower pot",
+            "D": "Gardening gloves"
+        }
+    },
+    {
+        "index": 9081,
+        "question": "Which place is most likely to have unpleasant odors?",
+        "options": {
+            "A": "Basement",
+            "B": "Living room",
+            "C": "Balcony",
+            "D": "Garden"
+        }
+    },
+    {
+        "index": 9082,
+        "question": "Which place is most likely to have a disinfectant smell?",
+        "options": {
+            "A": "Hospital",
+            "B": "Basement",
+            "C": "Attic",
+            "D": "Supermarket"
+        }
+    },
+    {
+        "index": 9083,
+        "question": "Which place is most likely to smell disinfectant?",
+        "options": {
+            "A": "Swimming pool",
+            "B": "Park",
+            "C": "Kitchen",
+            "D": "Restaurant"
+        }
+    },
+    {
+        "index": 9084,
+        "question": "Which place is typically accompanied by heavy cooking fumes and grease smell?",
+        "options": {
+            "A": "Street food stall",
+            "B": "Food market",
+            "C": "Office",
+            "D": "Living room"
+        }
+    },
+    {
+        "index": 9085,
+        "question": "Which place is most likely to have a musty smell?",
+        "options": {
+            "A": "Basement",
+            "B": "Study room",
+            "C": "Bedroom",
+            "D": "Kitchen"
+        }
+    },
+    {
+        "index": 9086,
+        "question": "Which place usually has the freshest scent?",
+        "options": {
+            "A": "Garden",
+            "B": "Balcony",
+            "C": "Kitchen",
+            "D": "Garage"
+        }
+    },
+    {
+        "index": 9087,
+        "question": "Where are you most likely to smell perfume?",
+        "options": {
+            "A": "Shopping mall",
+            "B": "Kitchen",
+            "C": "Balcony",
+            "D": "Food market"
+        }
+    },
+    {
+        "index": 9088,
+        "question": "Which place has the strongest paint smell?",
+        "options": {
+            "A": "A newly renovated house",
+            "B": "A house lived in for three years",
+            "C": "A roughcast house",
+            "D": "A furniture store"
+        }
+    },
+    {
+        "index": 9089,
+        "question": "Where are you most likely to smell burnt food?",
+        "options": {
+            "A": "Kitchen",
+            "B": "Restaurant",
+            "C": "Bar",
+            "D": "Supermarket"
+        }
+    },
+    {
+        "index": 9090,
+        "question": "Where are you most likely to smell floral fragrance?",
+        "options": {
+            "A": "Courtyard",
+            "B": "Garage",
+            "C": "Restaurant",
+            "D": "Kitchen"
+        }
+    },
+    {
+        "index": 9091,
+        "question": "Which place is most likely to have the smell of leather?",
+        "options": {
+            "A": "Bag store",
+            "B": "Car dealership",
+            "C": "Clothing store",
+            "D": "Restaurant"
+        }
+    },
+    {
+        "index": 9092,
+        "question": "Where are you most likely to detect the smell of bleach?",
+        "options": {
+            "A": "Laundry room",
+            "B": "Kitchen",
+            "C": "Bathroom",
+            "D": "Balcony"
+        }
+    },
+    {
+        "index": 9093,
+        "question": "Where are you most likely to smell salty scents?",
+        "options": {
+            "A": "Seaside",
+            "B": "Attic",
+            "C": "Basement",
+            "D": "Flower shop"
+        }
+    },
+    {
+        "index": 9094,
+        "question": "Which place is most likely to have the smell of sweat?",
+        "options": {
+            "A": "Gym",
+            "B": "Bathroom",
+            "C": "Kitchen",
+            "D": "Swimming pool"
+        }
+    },
+    {
+        "index": 9095,
+        "question": "Which place is most likely to have a dusty smell?",
+        "options": {
+            "A": "Warehouse",
+            "B": "Parking lot",
+            "C": "Supermarket",
+            "D": "Food market"
+        }
+    },
+    {
+        "index": 9096,
+        "question": "Where are you most likely to detect the smell of alcohol?",
+        "options": {
+            "A": "Hospital",
+            "B": "Flower shop",
+            "C": "Library",
+            "D": "Bathroom"
+        }
+    },
+    {
+        "index": 9097,
+        "question": "Which place is most likely to have a caramel scent?",
+        "options": {
+            "A": "Cafes",
+            "B": "Restaurant",
+            "C": "Garden",
+            "D": "Chemical plant"
+        }
+    },
+    {
+        "index": 9098,
+        "question": "Where are you most likely to detect the smell of rubber?",
+        "options": {
+            "A": "Tire shop",
+            "B": "Bookstore",
+            "C": "Clothing store",
+            "D": "Restaurant"
+        }
+    },
+    {
+        "index": 9099,
+        "question": "Where are you most likely to smell vanilla?",
+        "options": {
+            "A": "Bakery",
+            "B": "Garage",
+            "C": "Bookstore",
+            "D": "Living room"
+        }
+    },
+    {
+        "index": 9100,
+        "question": "Where are you most likely to detect the smell of mothballs?",
+        "options": {
+            "A": "Wardrobe",
+            "B": "Gym",
+            "C": "Supermarket",
+            "D": "Bathroom"
+        }
+    }
+]
