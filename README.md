@@ -2,7 +2,7 @@
 
 This repository provides the dataset for the paper:
 
-> **Does Visual Grounding Enhance the Understanding of Embodied Knowledge in Large Language Models?**  
+> **【EMNLP 2025 Findings (to appear)】Does Visual Grounding Enhance the Understanding of Embodied Knowledge in Large Language Models?**  
 > *Zhihui Yang, Yupei Wang, Kaijie Mo, Zhe Zhao, Renfen Hu*  
 <!-- > Beijing Normal University · Tencent AI Lab   -->
 <!-- > [[Paper PDF](./2996.pdf)] -->
